@@ -1,0 +1,5195 @@
+KOMPAS.com – Bilangan
+bulat adalah bilangan yang
+terdiri dari bilangan bulat
+negatif, positif, dan juga nol.
+Bilangan bulat dapat
+dioperasikan dengan sifat
+tertentu. Sifat-sifat operasi
+bilangan bulat adalah:
+Sifat tertutup
+Sifat komutatif
+Sifat asosiatif
+Sifat distributif
+Sifat identitas
+Sifat tertutup
+Sifat operasi bilangan bulat
+yang pertama adalah sifat
+tertutup. Sifat tertutup
+adalah saat bilangan bulat
+mengalami operasi
+penjumlahan,
+pengurangan, dan
+perkalian, maka hasilnya
+akan selalu bilangan bulat.
+Baca juga: Mengenal Jenis-
+jenis Bilangan Matematika
+Misalnya:
+5+4=9
+13 – 7 = 5
+11 x 2 = 22
+Namun, sifat tertutup
+bilangan bulat tidak berlaku
+pada operasi pembagian.
+Karena, pembagian
+bilangan bulat dapat juga
+menghasilkan bilangan
+desimal dan pecahan.
+Misalnya, 7 : 2 sama
+dengan 3,5. Adapun, 3,5
+bukanlah bilangan bulat
+melainkan desimal.
+Sifat komutatif
+Sifat komutatif adalah saat
+dua bilangan bulat
+ditambah atau dikalikan,
+posisinya dapat ditukar dan
+hasilnya tetap sama.
+Misalnya:
+3x5=5x3
+3+5=5+3
+Baca juga: Mengenal
+Bilangan Negatif dan
+Contoh Soalnya
+Sifat asosiatif
+Sifat operasi bilangan bulat
+selanjutnya adalah sifat
+asosiatif. Dilansir dari
+Splash Learn, sifat asosiatif
+aalah ketika bilangan bulat
+ditambahkan atau dikalikan
+hasilnya akan tetap sama
+terlepas dari bagaimana
+mereka dikelompokkan.
+Misalnya:
+(3 x 5) x 4 = 3 x (5 x 4)
+
+7 + (11 + 2) + 6 = (7 + 11) +
+(2 + 6)
+
+Namun, sifat asosiatif tidak
+berlaku pada pengurangan
+dan pembagian bilangan
+bulat.
+
+Sifat distributif
+Dilansir dari Cuemath, sifat
+distributif bilangan bulat
+menyatakan bahwa operasi
+perkalian dapat
+didistribusikan melalui
+penambahan dan
+pengurangan untuk
+mempermudah
+perhitungan.
+
+Baca juga: Mengurutkan
+Bilangan Bulat dan
+Pecahan
+
+Misalnya, operasi hitung 2 x
+(50 – 24) dapat
+diselesaikan dengan
+mendistribusikan angkanya
+sebagai berikut:
+
+2 x (50 – 24) = (2 x 5) – (2 x
+24) = 100 – 48 = 52
+
+Sifat distributif dapat
+diterapkan saat operasi
+hitung perkalian terhadap
+penjumlahan ataupun
+pengurangan.
+
+Sifat identitas
+
+Sifat operasi bilangan bulat
+selanjutnya adalah sifat
+identitas. Dilansir dari
+Mathematics LibreTexts,
+sifat identitas menyatakan
+bahwa bilangan bulat apa
+pun yang dikalikan dengan
+1 akan menghasilkan
+bilangan bulat itu sendiri
+(identik).
+
+Misalnya:
+Sifat Sifat Operasi Bilangan
+Bulat Matematika Kelas 5
+SD – Matematika memang
+menjadi salah satu mapel
+yang dianggap sulit oleh
+siswa. Asumsi ini pun
+muncul bukan tanpa alasan
+karena banyak materi serta
+rumus hitung yang harus
+dihafalkan. Tanpanya, kita
+pun tak akan bisa
+mengerjakan soal maupun
+menentukan jawaban
+dengan benar. Maka dari
+itu Matematika merupakan
+salah satu pelajaran yang
+memerlukan ketelitian,
+ketekunan dan keuletan
+dalam setiap pengerjaan
+soal soalnya.
+Ketika berada di bangku
+sekolah dasar kalian akan
+disuguhkan dengan materi
+operasi bilangan bulat.
+Dalam materi tersebut
+berisi pelajaran mengenai
+sifat operasi bilangan bulat
+yang perlu dipahami dan
+dimengerti oleh para siswa.
+Berbagai sifat bilangan
+bulat Matematika kelas 5
+SD ini berhubungan
+dengan operasi hitungnya
+seperti operasi
+penjumlahan,
+pengurangan, pembagian
+ataupun perkalian.
+Materi Bilangan Bulat Kelas
+5 SD Matematika
+Operasi hitung bilangan
+bulat terdiri dari operasi
+penjumlahan (+), perkalian
+(x), pengurangan (-), dan
+pembagian (:). Operasi
+hitung ini sama seperti
+halnya operasi hitung
+Matematika pada
+umumnya. Untuk sifat sifat
+bilangan bulat sendiri
+berhubungan dengan
+operasi hitungnya. Operasi
+bilangan bulat kelas 5 SD
+Matematika tergolong lebih
+sederhana dibandingkan
+materi bilangan bulat pada
+Sekolah Menengah
+Pertama (SMP). Pada
+kesempatan kali ini saya
+akan menjelaskan tentang
+sifat sifat operasi bilangan
+bulat Matematika kelas 5
+SD. Untuk lebih jelasnya
+dapat anda simak di bawah
+ini.
+Pengertian bilangan bulat
+adalah bilangan yang
+tersusun oleh bilangan nol,
+positif maupun negatif.
+Cara membaca bilangan
+positif tersebut disesuaikan
+dengan simbol yang
+tersedia. Misalnya 4 maka
+dapat dibaca empat. Tetapi
+cara membaca bilangan
+negatif disesuaikan dengan
+simbol yang terdapat
+sebelum angkanya.
+Misalnya -4 maka dapat
+dibaca negatif empat.
+Seperti yang telah saya
+jelaskan di atas bahwa sifat
+sifat operasi bilangan bulat
+berhubungan dengan
+operasi hitungnya. Untuk itu
+operasi hitung bilangan
+bulat terdiri dari:
+Operasi Penjumlahan (+)
+Operasi Perkalian (x)
+Operasi Pengurangan (-)
+Operasi Pembagian (:)
+Operasi hitung bilangan
+bulat di atas pengerjaannya
+hampir sama seperti
+operasi hitung Matematika
+pada umumnya. Berikut
+penjelasan mengenai
+operasi pada bilangan bulat
+kelas 5 SD Matematika
+yaitu:
+Baca juga : Kesebangunan
+dan Kekongruenan Bangun
+Datar dalam Matematika
+Penjumlahan
+Operasi hitung bilangan
+bulat yang pertama ialah
+penjumlahan. Operasi
+penjumlahan bilangan bulat
+Matematika kelas 5 SD ini
+mengandung sifat sifat
+operasi bilangan bulat.
+Meskipun operasi
+penjumlahan ini
+menggunakan konsep
+bilangan bulat, namun
+pengerjaannya hampir
+sama dengan penjumlahan
+Matematika pada
+umumnya. Untuk lebih
+jelasnya dapat anda
+perhatikan garis bilangan di
+bawah ini:
+Garis Bilangan Operasi
+Penjumlahan Bilangan
+Bulat
+Contoh Operasi
+Penjumlahan Bilangan
+Bulat
+a. 2 + 3 = 5
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini:
+Garis Bilangan
+Penjumlahan Contoh #1
+b. -2 + 4 = 2
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini:
+Garis Bilangan
+Penjumlahan Contoh #2
+c. -5 + 3 = -2
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini:
+Garis Bilangan
+Penjumlahan Contoh #3
+Pengurangan
+Operasi hitung bilangan
+bulat selanjutnya ialah
+pengurangan. Operasi
+pengurangan bilangan
+bulat Matematika kelas 5
+SD ini mengandung sifat
+sifat operasi bilangan bulat.
+Meskipun operasi
+pengurangan ini
+menggunakan konsep
+bilangan bulat, namun
+pengerjaannya hampir
+sama dengan pengurangan
+Matematika pada
+umumnya. Untuk lebih
+jelasnya dapat anda
+perhatikan garis bilangan di
+bawah ini:
+Garis Bilangan Operasi
+Pengurangan Bilangan
+Bulat
+Contoh Operasi
+Pengurangan Bilangan
+Bulat a. 6 – 3 = 3
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini: Garis Bilangan
+Pengurangan Contoh #1
+Baca juga : Jaring Jaring
+Kerucut Beserta Unsur
+Unsur Kerucut b. 1 – 3 = -2
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini: Garis Bilangan
+Pengurangan Contoh #2 c.
+-2 – 4 = -6
+Bentuk garis bilangannya
+akan menjadi seperti di
+bawah ini:
+Garis Bilangan
+Pengurangan Contoh #3
+Perkalian
+Operasi hitung bilangan
+bulat selanjutnya ialah
+perkalian. Operasi
+perkalian bilangan bulat
+Matematika kelas 5 SD ini
+mengandung sifat sifat
+operasi bilangan bulat.
+Meskipun operasi perkalian
+ini menggunakan konsep
+bilangan bulat, namun
+pengerjaannya hampir
+sama dengan perkalian
+Matematika pada
+umumnya. Tetapi ada
+beberapa hal yang perlu
+diperhatikan seperti di
+bawah ini: Perkalian
+bilangan Positif dengan
+bilangan Positif, maka
+hasilnya Positif (+ x + = +)
+Contoh: 3 x 3 = 9
+9 x 8 = 72 Perkalian
+bilangan Positif dengan
+bilangan Negatif, maka
+hasilnya Negatif (+ x – = -)
+Contoh: 3 x -3 = -9
+9 x -8 = -72 Perkalian
+bilangan Negatif dengan
+bilangan Positif, maka
+hasilnya Negatif (- x + = -)
+Contoh: -3 x 3 = -9
+-9 x 8 = -72 Perkalian
+bilangan Negatif dengan
+bilangan Negatif, maka
+hasilnya Positif (- x – = +)
+Contoh: -3 x -3 = 9
+-9 x -8 = 72 Pembagian
+Operasi hitung bilangan
+bulat selanjutnya ialah
+pembagian. Operasi
+pembagian bilangan bulat
+Matematika kelas 5 SD ini
+mengandung sifat sifat
+operasi bilangan bulat.
+Meskipun operasi
+pembagian ini
+menggunakan konsep
+bilangan bulat, namun
+pengerjaannya hampir
+sama dengan pembagian
+Matematika pada
+umumnya. Tetapi ada
+beberapa hal yang perlu
+diperhatikan seperti di
+bawah ini: Pembagian
+bilangan Positif dengan
+bilangan Positif, maka
+hasilnya Positif (+ : + = +)
+Contoh: 8 : 4 = 2
+81 : 9 = 9 Pembagian
+bilangan Positif dengan
+bilangan Negatif, maka
+hasilnya Negatif (+ : – = -)
+Contoh: 8 : -4 = -2
+
+81 : -9 = -9 Baca juga :
+Mengenal Koordinat
+Kartesius dan Polar dalam
+Matematika Pembagian
+bilangan Negatif dengan
+bilangan Positif, maka
+hasilnya Negatif (- : + = -)
+
+Contoh: -8 : 4 = -2
+
+-81 : 9 = -9 Pembagian
+bilangan Negatif dengan
+bilangan Negatif, maka
+hasilnya Positif (- : – = +)
+Contoh: -8 : -4 = 2
+
+-81 : -9 = 9 Operasi Hitung
+Bilangan Bulat Berjajar
+Setelah membahas tentang
+beberapa jenis operasi
+hitung bilangan bulat,
+selanjutnya saya akan
+menjelaskan operasi hitung
+berjajar bilangan bulat.
+Setelah itu saya akan
+menjelaskan tentang sifat
+sifat operasi bilangan bulat.
+Dalam operasi hitung
+berjajar pada bilangan bulat
+terdapat beberapa hal yang
+perlu anda perhatikan
+seperti di bawah ini: 1. Jika
+dalam operasi hitung
+bilangan bulat berjajar
+terdapat tanda
+penjumlahan (+) dan
+pengurangan (-). Maka
+operasi Matematikanya
+akan menjadi operasi
+pengurangan (-).
+
+Contohnya: 6 + (-2) berarti
+6 – 2 = 4 2. Jika dalam
+operasi hitung bilangan
+bulat berjajar terdapat
+tanda pengurangan (-) dan
+penjumlahan (+). Maka
+operasi Matematikanya
+akan menjadi operasi
+pengurangan (-).
+
+Contohnya: 6 – (+2) berarti
+6 – 2 = 4 3. Jika dalam
+operasi hitung bilangan
+bulat berjajar terdapat
+tanda pengurangan (-) dan
+pengurangan (-). Maka
+operasi Matematikanya
+akan menjadi operasi
+penjumlahan (+).
+
+Contohnya: 6 – (-2) berarti
+6 + 2 = 8 Sifat Sifat Operasi
+Bilangan Bulat Selanjutnya
+saya akan menjelaskan
+tentang sifat sifat operasi
+hitung bilangan bulat.
+Operasi bilangan bulat
+kelas 5 SD Matematika
+memiliki beberapa sifat
+yang terdiri dari sifat
+komutatif, sifat asosiatif,
+dan sifat distributif. Berikut
+penjelasan masing masing
+sifat bilangan bulat yaitu
+meliputi: Sifat Komutatif
+
+Sifat operasi bilangan bulat
+yang pertama ialah
+komutatif. Sifat komutatif
+pada bilangan bulat dapat
+diartikan sebagai
+pertukaran. Sifat bilangan
+bulat ini berlaku untuk
+operasi perkalian dan
+penjumlahan saja.
+Contohnya: 3 + 4 = 7 sama
+dengan 4 + 3 = 7
+
+2 x 6 = 12 sama dengan 6 x
+2 = 12 Sifat Asosiatif
+Sifat operasi bilangan bulat
+selanjutnya ialah asosiatif.
+Sifat asosiatif pada
+bilangan bulat dapat
+diartikan sebagai
+pengelompokan. Sifat
+bilangan bulat ini berlaku
+untuk operasi perkalian dan
+penjumlahan saja. Jika
+dinyatakan dalam bentuk
+Matematika maka akan
+menjadi seperti di bawah
+ini: Operasi Penjumlahan :
+(a + b) + c = a + (b + c)
+
+Operasi Perkalian : (a x b) x
+c = a x (b x c) Contoh: (3 +
+2) + 5 = 10 sama dengan 3
++ (2 + 5) = 10
+
+(3 x 3) x 6 = 54 sama
+dengan 3 x (3 x 6) = 54
+Sifat Distributif
+
+Sifat operasi bilangan bulat
+selanjutnya ialah distributif.
+Sifat distributif pada
+bilangan bulat dapat
+diartikan sebagai
+penyebaran. Sifat bilangan
+bulat ini dapat dibagi
+menjadi dua macam yakni
+meliputi:
+
+Sifat Distributif Perkalian
+dengan Konsep
+Penjumlahan
+
+Jika dinyatakan dalam
+bentuk Matematika maka
+akan menjadi (a + b) x (a +
+c) = a x (b + c). Contohnya:
+
+(3 + 2) x (3 + 4) = 3 x (2 +
+4)
+
+Dikarenakan sama sama
+dikalikan dengan 3, maka
+bentuk (3 + 2) x (3 + 4)
+dapat disederhanakan
+menjadi 3 x (2 + 4).
+
+Sifat Distributif Perkalian
+dengan Konsep
+Pengurangan
+
+Jika dinyatakan dalam
+bentuk Matematika maka
+akan menjadi (a – b) x (a –
+c) = a x (b – c). Contohnya:
+
+(4 – 3) x (4 – 2) = 4 x (3 – 2)
+Dikarenakan sama sama
+dikalikan dengan 4, maka
+bentuk (4 – 3) x (4 – 2)
+dapat disederhanakan
+menjadi 4 x (3 – 2).
+Demikianlah penjelasan
+mengenai sifat sifat operasi
+bilangan bulat Matematika
+kelas 5 SD. Sifat sifat
+operasi hitung bilangan
+bulat kelas 5 SD
+Matematika terdiri dari sifat
+komutatif, asosiatif dan
+distributif. Semoga artikel
+ini dapat bermanfaat dan
+terima kasih telah
+membaca materi bilangan
+bulat di atas.
+Dalam aritmetika dan teori
+bilangan, kelipatan
+persekutuan terkecil dari
+dua bilangan adalah
+bilangan bulat positif
+terkecil yang dapat dibagi
+habis oleh kedua bilangan
+tersebut.[1][2] Kelipatan
+persekutuan terkecil
+biasanya disingkat sebagai
+KPK {\displaystyle
+\operatorname {KPK} } [3]
+atau dituliskan lcm
+{\displaystyle
+\operatorname {lcm} } ,
+abreviasi dari bahasa
+Inggris: least common
+multiple[4] atau bahasa
+Inggris: lowest common
+multiple. Notasi kelipatan
+persekutuan dari bilangan a
+{\displaystyle a} dan b
+{\displaystyle b} dituliskan
+sebagai KPK ⁡ ( a , b )
+{\displaystyle
+\operatorname {KPK} (a,b)}
+atau lcm ⁡ ( a , b )
+{\displaystyle
+\operatorname {lcm} (a,b)} .
+Terkadang, ada juga
+beberapa buku yang
+menotasikannya sebagai [
+a , b ] {\displaystyle [a,b]} .
+[5][6]
+Sebagai contoh, diberikan
+bilangan bulat 12
+{\displaystyle 12} dan 20
+{\displaystyle 20} . Karena
+kelipatan dari masing-
+masing kedua bilangan
+adalah 12 , 24 , 36 , 48 , 60
+, … {\displaystyle
+12,24,36,48,{\color {red}
+{60}},\dots } dan 20 , 40 , 60
+, 80 , … {\displaystyle
+20,40,{\color {red}
+{60}},80,\dots } , maka KPK ⁡
+( 12 , 20 ) = 60
+{\displaystyle
+\operatorname {KPK}
+(12,20)=60} . Kelipatan
+persekutuan lainnya adalah
+120 , 180 , 240 , 300 , …
+{\displaystyle
+120,180,240,300,\dots }
+Suatu kelipatan
+persekutuan terkecil dari
+bilangan yang lebih dari
+dua dapat dilakukan
+dengan cara yang serupa.
+Menggunakan faktor
+persekutuan terbesar [
+sunting | sunting sumber ]
+Kelipatan persekutuan
+terbesar dapat juga
+dihitung melalui rumus
+berikut.
+KPK ⁡ ( a , b ) = a b FPB ⁡ ( a
+, b ) {\displaystyle
+\operatorname {KPK} (a,b)=
+{\frac {ab}{\operatorname
+{FPB} (a,b)}}} .[7]
+dimana FPB {\displaystyle
+\operatorname {FPB} }
+adalah faktor persekutuan
+terbesar.
+Pohon faktor [ sunting |
+sunting sumber ]
+Cara sederhana dapat
+digunakan untuk mencari
+kelipatan persekutuan
+terkecil dari 2 atau 3
+bilangan yang tidak terlalu
+besar, namun untuk
+bilangan yang lebih besar
+sebaiknya menggunakan
+pohon faktor. Misalnya,
+diminta untuk mencari
+kelipatan persekutuan
+terkecil dari bilangan 147,
+189 dan 231. Buat pohon
+faktor dari masing-masing
+bilangan:
+147 189 231 /\ /\ /\ 3 49 3 63
+3 77 /\ /\ /\ 7 7 7 9 7 11 /\ 3 3
+Susun bilangan dari pohon
+faktor untuk mendapatkan
+faktornya. Kita memperoleh
+147 = 3 × 7 2 {\displaystyle
+147=3\times 7^{2}} , 189 =
+3 3 × 7 {\displaystyle
+189=3^{3}\times 7} , dan
+231 = 3 × 7 × 11
+{\displaystyle 231=3\times
+7\times 11} . Ambil faktor-
+faktor yang memiliki
+pangkat terbesar, dalam hal
+ini 3 3 {\displaystyle 3^{3}} ,
+7 2 {\displaystyle 7^{2}} dan
+11 {\displaystyle 11} .
+Kalikan faktor-faktor
+tersebut:
+
+3 3 × 7 2 × 11 = 14553
+{\displaystyle 3^{3}\times
+7^{2}\times 11=14553}
+
+Maka, kelipatan
+persekutuan terkecil dari
+ketiga bilangan di atas
+adalah 14553 {\displaystyle
+14553} . Dengan kata lain,
+tidak ada bilangan yang
+lebih kecil dari 14553
+{\displaystyle 14553} yang
+dapat dibagi habis oleh
+bilangan 147, 189 dan 231.
+
+Lihat pula [ sunting | sunting
+sumber ]
+
+
+
+Dalam matematika,
+khususnya teori bilangan,
+faktor persekutuan terbesar
+atau dikenal juga sebagai
+persekutuan bilangan
+terbesar (dilambangkan
+FPB {\displaystyle
+\operatorname {FPB} } [1]
+atau PBT {\displaystyle
+\operatorname {PBT} } [2]
+dalam bahasa Indonesia,
+dan gcd {\displaystyle \gcd }
+dalam bahasa Inggris,
+abreviasi dari kata greatest
+common divisor[3])
+terhadap bilangan adalah
+bilangan bulat terbesar
+yang membagi setiap
+bilangan bulat. Sebagai
+contoh, diberikan bilangan
+bulat 12 {\displaystyle 12}
+dan 20 {\displaystyle 20} .
+Maka, FPB ⁡ ( 12 , 20 ) = 4
+{\displaystyle
+\operatorname {FPB}
+(12,20)=4} . Mengenai
+cara-cara dan metode akan
+dijelaskan di bawah.
+Gagasan faktor
+persekutuan terbesar dapat
+diperluas melalui
+polinomial, lihat faktor
+persekutuan terbesar
+polinomial atau
+persekutuan bilangan
+terbesar polinomial untuk
+melihat lebih lanjut.
+Untuk a {\displaystyle a}
+dan b {\displaystyle b}
+bilangan bulat sembarang,
+notasi faktor persekutuan
+terbesar dinotasikan
+sebagai FPB ⁡ ( a , b )
+{\displaystyle
+\operatorname {FPB} (a,b)}
+atau PBT ⁡ ( a , b )
+{\displaystyle
+\operatorname {PBT} (a,b)}
+. Dalam versi bahasa
+Inggris, dinotasikan
+sebagai gcd ( a , b )
+{\displaystyle \gcd(a,b)}
+atau GCD ⁡ ( a , b )
+{\displaystyle
+\operatorname {GCD} (a,b)}
+. Ada beberapa penulisan
+notasi faktor persekutuan
+terbesar, yaitu g . c . d ⁡ ( a ,
+b ) {\displaystyle
+\operatorname {g.c.d} (a,b)}
+atau ( a , b ) {\displaystyle
+(a,b)} .[4]
+Misalkan a {\displaystyle a}
+dan b {\displaystyle b}
+adalah dua bilangan bulat
+yang diberikan. Misalkan d
+{\displaystyle d} membagi a
+{\displaystyle a} dan b
+{\displaystyle b} dan d
+{\displaystyle d} bilangan
+asli terbesar, maka faktor
+persekutuan terbesar
+terhadap bilangan bulat a
+{\displaystyle a} dan b
+{\displaystyle b} adalah[5]
+FPB ⁡ ( a , b ) = d
+{\displaystyle
+\operatorname {FPB}
+(a,b)=d} .
+Lebih umumnya lagi, untuk
+sebarang bilangan bulat a 1
+, … , a n {\displaystyle
+a_{1},\dots ,a_{n}} dan d
+{\displaystyle d} bilangan
+asli terbesar yang membagi
+a 1 , … , a n {\displaystyle
+a_{1},\dots ,a_{n}} , maka
+faktor persekutuan
+terbesarnya adalah[4]
+FPB ⁡ ( a 1 , … , a n ) = d
+{\displaystyle
+\operatorname {FPB}
+(a_{1},\dots ,a_{n})=d} .
+Berikut adalah sifat-sifat
+faktor persekutuan
+terbesar, antara lain:
+Untuk sebarang bilangan
+bulat positif a , b , d
+{\displaystyle a,b,d} d
+{\displaystyle d} a
+{\displaystyle a} b
+{\displaystyle b} d ∣ FPB ⁡ (
+a , b ) {\displaystyle d\mid
+\operatorname {FPB} (a,b)}
+Untuk sebarang bilangan
+bulat positif a , b
+{\displaystyle a,b} FPB ⁡ ( a ,
+b ) = b {\displaystyle
+\operatorname {FPB}
+(a,b)=b} b ∣ a {\displaystyle
+b\mid a}
+Untuk sebarang bilangan
+bulat positif a , b , d
+{\displaystyle a,b,d} FPB ⁡ (
+a d , b d ) = d ⋅ FPB ⁡ ( a , b )
+{\displaystyle
+\operatorname {FPB}
+(ad,bd)=d\cdot
+\operatorname {FPB} (a,b)}
+FPB ⁡ ( a , 0 ) = FPB ⁡ ( 0 , a )
+= | a | {\displaystyle
+\operatorname {FPB}
+(a,0)=\operatorname {FPB}
+(0,a)=|a|} algoritme
+Euklides
+Terdapat cara sederhana
+mengenai pencarian suatu
+faktor persekutuan terbesar
+terhadap dua bilangan.
+Sebagai contoh, kita ambil
+contoh bilangan bulat di
+atas sebelumnya, yakni 12
+{\displaystyle 12} dan 20
+{\displaystyle 20} . Untuk
+mengetahui mengapa FPB ⁡
+( 12 , 20 ) = 4 {\displaystyle
+\operatorname {FPB}
+(12,20)=4} , kita perhatikan
+faktor-faktor dari kedua
+bilangan di bawah ini.
+Faktor dari 12 {\displaystyle
+12} 1 , 2 , 3 , 4 , 6 , 12
+{\displaystyle 1,2,3,{\color
+{red}{4}},6,12}
+Faktor dari 20 {\displaystyle
+20} 1 , 2 , 4 , 5 , 10 , 20
+{\displaystyle 1,2,{\color
+{red}{4}},5,10,20}
+Karena faktor persekutuan
+terbesar dua bilangan
+adalah bilangan bulat
+terbesar yang membagi
+setiap bilangan bulat, maka
+kita simpulkan FPB ⁡ ( 12 ,
+20 ) = 4 {\displaystyle
+\operatorname {FPB}
+(12,20)=4} . Terdapat cara
+lain untuk mengerjakan ini.
+Pohon faktor [ sunting |
+sunting sumber ]
+Sebagai contoh, tinjau
+kedua bilangan di atas. Kita
+buatkan pohon faktor dari
+masing-masing bilangan:
+12 20 /\ /\ 3 4 2 10 /\ /\ 2 2 2
+5
+Kita memperoleh 12 = 2 2 ×
+3 {\displaystyle 12={\color
+{red}{2^{2}}}\times 3} dan
+20 = 2 2 × 5 {\displaystyle
+20={\color {red}
+{2^{2}}}\times 5} , maka,
+FPB ⁡ ( 12 , 20 ) = 2 2
+{\displaystyle
+\operatorname {FPB}
+(12,20)=2^{2}} , di mana
+hasilnya adalah 4
+{\displaystyle 4} .
+Sebuah ubin dengan
+ukuran 24 kali 60, masing-
+masing dibagi menjadi
+ukuran yang sama, yang
+terbesar adalah 12 kali 12.
+Visualisasi geometri [
+sunting | sunting sumber ]
+Ada cara lain untuk
+mengetahui faktor
+persekutuan terbesar, yaitu
+melalui visualisasi
+geometri. Sebagai contoh,
+pada gambar di samping
+kanan, kita memperoleh
+ubin dengan ukuran 24 kali
+60. Ubin tersebut kita bagi
+lagi menjadi 1 kali 1, 2 kali
+2, 3 kali 3, 4 kali 4, 6 kali 6,
+dan terbesarnya adalah 12
+kali 12. Jadi, 12 merupakan
+faktor persekutuan terbesar
+dari 24 dan 60, karena 24
+12 = 2 {\displaystyle {\tfrac
+{24}{12}}=2} dan 60 12 = 5
+{\displaystyle {\tfrac {60}
+{12}}=5} .
+Dua buah bilangan
+dikatakan koprima, atau
+relatif prima, atau saling
+prima jika dan hanya jika
+faktor persekutuan terbesar
+dari kedua bilangan
+tersebut bernilai 1.[4]
+Menyederhanakan
+pecahan [ sunting | sunting
+sumber ]
+Salah satu penerapan
+terhadap faktor
+persekutuan terbesar
+adalah menyederhanakan
+pecahan[6]. Sebagai
+contoh, tinjau pecahan 4 8
+{\displaystyle {\frac {4}{8}}} .
+Kita dapat sederhanakan
+pecahan ini dengan
+menggunakan faktor
+persekutuan terbesar.
+Faktor persekutuan
+terbesar dari 4
+{\displaystyle 4} dan 8
+{\displaystyle 8} adalah
+FPB ⁡ ( 4 , 8 ) = 2
+{\displaystyle
+\operatorname {FPB}
+(4,8)=2} . Kita tuliskan
+sebagai
+48=2×22×4=12
+{\displaystyle {\frac {4}{8}}=
+{\frac {2\times 2}{2\times
+4}}={\frac {1}{2}}}
+Kelipatan persekutuan
+terkecil [ sunting | sunting
+sumber ]
+Selain digunakan untuk
+menyederhanakan sebuah
+pecahan, faktor
+persekutuan terbesar juga
+dapat diterapkan dalam
+kelipatan persekutuan
+terkecil, di mana hubungan
+keduanya berkaitan dengan
+rumus berikut.
+
+KPK ⁡ ( a , b ) = a b FPB ⁡ ( a
+, b ) {\displaystyle
+\operatorname {KPK} (a,b)=
+{\frac {ab}{\operatorname
+{FPB} (a,b)}}} .[7]
+
+Algoritme Euklidean [
+sunting | sunting sumber ]
+
+Cara lain untuk mencari
+FPB adalah dengan
+menggunakan algoritme
+Euklidean. Misalkan a dan
+b adalah 2 bilangan bulat
+yang tidak sama, maka
+algoritme Euklidean adalah
+sebagai berikut:
+
+a 1 = maximum(a,b)-
+minimum(a,b) b 1 =
+minimum(a,b)
+
+a 2 = maximum(a 1 ,b 1 )-
+minimum(a 1 ,b 1 ) b 2 =
+minimum(a 1 ,b 1 )
+
+...
+
+a i = maximum(a i-1 ,b i-1 )-
+minimum(a i-1 ,b i-1 ) b i =
+minimum(a i-1 ,b i-1 )
+
+Algoritme tersebut berhenti
+hingga diperoleh a i = b i .
+
+FPB dari a dan b adalah a i
+=bi.
+
+Algoritme ini dapat lebih
+jauh disederhanakan lagi
+dengan pembagian
+Euklidean, yang
+dideskripsikan sebagai
+berikut:
+
+gcd ( a , 0 ) = 0
+{\displaystyle \gcd(a,0)=0}
+
+gcd ( a , b ) = gcd ( b , a m o
+d b ) {\displaystyle
+\gcd(a,b)=\gcd(b,a\,\mathrm
+{mod} \,b)}
+
+dengan a m o d b
+{\displaystyle a\,\mathrm
+{mod} \,b} adalah operasi
+modulus.
+
+Pencarian algoritme Euklid
+dengan pembagian
+memerlukan sekitar O ( log ⁡
+( min ( a , b ) ) )
+{\displaystyle
+O(\log(\min(a,b)))}
+pembagian.
+Rangkuman Materi Operasi
+Hitung Campuran pada
+Bilangan Bulat
+Bobo.id - Dalam
+matematika, ada berbagai
+jenis bilangan, seperti
+bilangan asli, bilangan
+cacah, bilangan prima, dan
+bilangan bulat.
+Pada setiap bilangan ini
+juga memiliki operasi hitung
+yang berbeda-beda.
+Contohnya adalah pada
+bilangan bulat, operasi
+hitungnya berupa operasi
+hitung campuran.
+Ketahui mengenai operasi
+hitung campuran dan sifat
+operasi hitung pada
+bilangan bulat, yuk!
+Baca Juga: Cari Jawaban
+Soal Matematika Kelas 6
+Materi Bangun Ruang:
+Cara Menghitung Volume
+dan Luas Permukaan
+Bangun Ruang
+Apa Itu Operasi Hitung
+Campuran?
+Bilangan bulat bisa terdiri
+dari bilangan positif
+(bilangan asli), bilangan
+nol, dan bilangan bulat
+negatif.
+Ketiga jenis bilangan ini
+bisa digambarkan dengan
+garis bilangan, yaitu
+bilangan negatif di sebelah
+kiri, bilangan nol di tengah,
+dan bilangan positif di
+sebelah kanan.
+Untuk menyelesaikan soal
+bilangan campuran, kita
+bisa menggunakan operasi
+hitung campuran.
+Apa yang dimaksud
+dengan operasi hitung
+campuran pada bilangan
+bulat?
+Operasi hitung campuran
+adalah penghitungan di
+mana terdapat dua tanda
+penghitungan yang
+berbeda dalam satu soal.
+Misalnya ada tanda tambah
+dan tanda kurang, atau
+bahkan ada penghitungan
+yang menggunakan empat
+jenis tanda penghitungan.
+Hal yang perlu diperhatikan
+dalam operasi campuran
+adalah tanda operasi hitung
+dan tanda kurung.
+Beberapa hal ini harus
+diperhatikan saat
+melakukan penghitungan
+operasi hitung campuran
+bilangan bulat:
+Baca Juga: Akibat dari
+Penebangan Liar di Hutan,
+Materi Kelas 3 SD Tema 1
+- Jika ada tanda kurung
+pada penghitungan
+bilangan bulat, maka
+bilangan yang ada di dalam
+tanda kurung harus
+dikerjakan lebih dulu.
+- Operasi pengurangan dan
+penjumlahan punya sifat
+yang sama, sehingga
+penghitungannya dilakukan
+dari sebelah kiri lebih dulu.
+- Sama seperti
+penjumlahan dan
+pengurangan, perkalian
+dan pembagian punya sifat
+yang sama, sehingga
+penghitungannya dilakukan
+dari sebelah kiri lebih dulu.
+- Dibandingkan
+pengurangan dan
+penjumlahan, tanda hitung
+perkalian dan pembagian
+memiliki sifat yang lebih
+kuat. Sehingga operasi
+hitung perkalian dan
+pembagian harus
+dikerjakan lebih dulu
+dibandingkan penjumlahan
+dan pengurangan.
+Contoh Soal Operasi
+Hitung Campuran pada
+Bilangan Bulat
+Agar teman-teman lebih
+memahami bagaimana
+melakukan operasi hitung
+campuran pada bilangan
+bulat, coba kerjakan
+beberapa soal ini, yuk!
+1. (14 x 2) - (10 : 2) + 8 =
+Dari soal di atas, maka
+operasi hitung yang
+dilakukan lebih dulu adalah
+yang ada di dalam kurung,
+yaitu:
+= 28 - 5 + 8
+= 31
+Maka hasil dari (14 x 2) -
+(10 : 2) + 8 adalah 31.
+
+Baca Juga: Cari Jawaban
+Kelas 4 SD: Apakah Arti
+Kerja Sama dalam
+Kehidupan? Berikan
+Contohnya
+
+2. 8 + (12 : 3) x 2
+
+Berdasarkan syarat
+penghitungan operasi
+hitung campuran, maka
+bilangan yang ada dalam
+kurung dihitung lebih dulu.
+
+Kemudian operasi hitung
+dilanjutkan dengan
+perkalian dan terakhir
+adalah penjumlahan.
+
+= 8 + (4) x 2
+
+=8+8
+
+= 16
+
+Sehingga hasil dari 8 + (12
+: 3) x 2 adalah 16.
+
+-----
+
+Ayo, kunjungi adjar.id dan
+baca artikel-artikel
+pelajaran untuk menunjang
+kegiatan belajar dan
+menambah
+pengetahuanmu. Makin
+pintar belajar ditemani
+adjar.id, dunia pelajaran
+anak Indonesia.
+
+Cek Berita dan Artikel yang
+lain di Google News
+
+Artikel ini merupakan
+bagian dari Parapuan
+Parapuan adalah ruang
+aktualisasi diri perempuan
+untuk mencapai mimpinya.
+
+PROMOTED CONTENT
+Tumbuh bersama kekuatan
+mimpi perempuan
+Indonesia.
+Bilangan Pangkat Dua dan
+Akar Pangkat Dua, Materi
+Belajar dari Rumah TVRI
+untuk SD Kelas 4 - 6
+Senin, 28 September 2020 |
+09:16 WIB
+Bilangan Pangkat Dua dan
+Akar Pangkat Dua
+Bobo.id - Hari ini teman-
+teman kelas 4 - 6 SD akan
+mempelajari tentang
+Bilangan Pangkat Dua dan
+Akar Pangkat Dua pada
+tayangan Belajar dari
+Rumah.
+Berikut adalah rangkuman
+dan soal yang sudah Bobo
+buatkan untukmu. Yuk,
+simak!
+Bilangan Pangkat Dua
+(Kuadrat)
+Adalah bilangan yang
+memiliki angka dua di atas
+bilangannya.
+Contoh:
+42, 52, 62 dan bilangan lain
+yang serupa.
+Cara menyelesaikannya
+adalah cukup dengan
+mengalikan bilangan yang
+dipangkatkan dengan
+bilangan itu sendiri
+sebanyak pangkatnya.
+Contoh soal:
+42 = 4 x 4 = 16
+62 = 6 x 6 = 36
+Baca Juga: BERITA
+POPULER: Cara
+Mencegah Asam Lambung
+Naik Hingga Tips Agar
+Telur Matang Merata dan
+Bulat Sempurna
+Akar Pangkat Dua (Akar
+Kuadrat)
+Akar kuadrat adalah lawan
+dari suatu bilangan kuadrat
+atau bilangan pangkat dua.
+Misalnya kita ingin mencari
+akar dari 36 itu artinya kita
+harus mencari bilangan
+berapa yang kalau
+dikuadratkan menghasilkan
+36.
+Jadi, hasilnya adalah 6
+karena 62 = 6 x 6 = 36.
+Operasi Matematika yang
+Terkait dengan Pangkat
+Dua
+Ada empat operasi hitung
+yang menggunakan
+kuadrat, yaitu penjumlahan,
+pengurangan, perkalian,
+dan pembagian.
+Contoh:
+Penjumlahan ~> 82 + 22 =
+64 + 4 = 68
+Pengurangan ~> 82 - 22 =
+64 - 4 = 60
+Perkalian ~> 82 x 22 = 64 x
+4 = 256
+Pembagian ~> 82 : 22 = 64
+: 4 = 32
+Perlu diingat, saat ada
+operasi hitung campuran
+kita harus mendahulukan
+terlebih dahulu perkalian
+dan pembagian, ya!
+Contoh soal:
+32 + 82 : 22 =
+9 + 64 : 4 =
+9 + 16 = 25
+Bisa dilihat di sini, kita
+harus membagi 82 dengan
+22 baru menjumlahkannya
+dengan 32.
+Baca Juga: Bosan
+Membuat Kita Kesal,
+Ternyata Rasa Bosan Bisa
+Memicu Kreativitas,
+Bagaimana Caranya, ya?
+Soal
+1. Sebidang tanah
+berbentuk persegi dengan
+panjang sisi 17 m. Berapa
+m² luas
+tanah tersebut?
+Jawab:
+Diketahui: Panjang sisi
+adalah 17 m
+Untuk mengetahui luasnya
+kita bisa menghitung
+dengan cara sisi x sisi atau
+sisi2.
+Cara menghitung:
+Luas Tanah ~> 172 = 17 x
+17 = 289
+Jadi, luas tanah itu adalah
+289 meter persegi (m²).
+Baca Juga: Membaca
+Menambah Pengetahuan,
+tapi Buku Sempat
+Dianggap Menyebarkan
+Penyakit Berbahaya! Apa
+Alasannya, ya?
+2. Sebuah baki berbentuk
+persegi luasnya 784 cm².
+Berapa cm panjang sisi
+baki
+
+tersebut?
+
+Jawab:
+
+Diketahui: Luas baki adalah
+784 cm².
+
+Untuk mengetahui panjang
+sisi persegi kita harus
+mencari akar kuadrat dari
+784.
+
+Cara menghitung:
+
+Luas persegi ~> sisi x sisi
+atau sisi2 artinya kita harus
+mencari bilangan yang
+kalau dipangkatkan
+menghasilkan 784.
+
+√784 = ?
+
+√784 = 28
+
+Jadi panjang sisi baki
+adalah 28 cm
+
+3. 242 + 182 - √676 x √196
+=?
+
+Jawab:
+
+242 + 182 - √676 x √196 =
+576 + 324 - 26 x 14
+
+576 + 324 - 364 = 536
+
+Baca Juga: Naiknya Asam
+Lambung Membuat Tidak
+Nyaman, Makan Perlahan
+dan 5 Cara Lain Bisa
+Mencegahnya
+
+-----
+
+Teman-teman, kalau ingin
+tahu lebih banyak tentang
+sains, dongeng fantasi,
+cerita misteri, dunia satwa,
+dan komik yang kocak,
+langsung saja
+berlangganan majalah
+Bobo, Mombi SD, NG Kids
+dan Album Donal Bebek.
+Caranya melalui:
+www.gridstore.id
+
+Atau teman-teman bisa
+baca versi elektronik (e-
+Magz) yang dapat diakses
+secara online di
+ebooks.gramedia.com
+
+Cek Berita dan Artikel yang
+lain di Google News
+
+Artikel ini merupakan
+bagian dari Parapuan
+Parapuan adalah ruang
+aktualisasi diri perempuan
+untuk mencapai mimpinya.
+
+PROMOTED CONTENT
+Pengertian Bilangan
+Berpangkat
+Bilangan berpangkat
+adalah suatu bilangan yang
+digunakan sebagai bentuk
+penyederhanaan dari
+sebuah bilangan yang
+mana bilangan tersebut
+mempunyai faktor-faktor
+perkalian yang sama.
+Sifat-sifat Bilangan
+Berpangkat
+Tahukah kamu ada berapa
+sifat bilangan berpangkat?
+Sifat-sifat bilangan
+berpangkat dibagi menjadi
+lima macam, yaitu: pangkat
+bulat positif, pangkat bulat
+negatif, pangkat nol,
+pangkat pecahan, dan
+bentuk akar.
+Pangkat Bulat Positif
+Pangkat Bulat Negatif
+Pangkat Nol
+
+Pangkat Pecahan
+
+Bentuk Akar
+
+Bentuk akar adalah
+bilangan yang jika
+dimasukkan dalam operasi
+bentuk akar menghasilkan
+bilangan irasional. Bentuk
+akar termasuk ke dalam
+bilangan irasional dimana
+bilangan irasional tidak bisa
+disebutkan dengan
+menggunakan bilangan
+pecahan a/b, a serta b
+bilangan bulat a dan b tidak
+sama dengan 0
+
+Operasi Bilangan
+Berpangkat
+
+Dalam operasi bilangan
+berpangkat, terdapat aturan
+yang perlu diperhatikan
+yaitu perkalian dan
+pembagian. Aturan
+perkalian berhubungan
+dengan bentuk
+penjumlahan, sedangkan
+aturan pembagian
+berkaitan dengan bentuk
+pengurangan. Berikut
+operasi dan contoh soal
+dari bilangan berpangkat:
+
+Nah, Sobat, materi dan
+soal bilangan berpangkat
+ternyata mudah, bukan?
+Selain materi bilangan
+berpangkat, kalian juga
+bisa belajar tentang materi
+lainnya melalui aplikasi Aku
+Pintar di fitur Belajar Pintar
+mata pelajaran Matematika.
+Sampai bertemu di
+pembahasan berikutnya,
+Sobat Pintar!
+Pada pelajaran matematika
+kali ini akan dibahas
+tentang operasi hitung
+campuran bilangan bulat.
+Operasi hitung campuran
+bilangan bulat memuat
+paling sedikit dua
+pengerjaan hitung diantara
+pengerjaan berikut:
+penjumlahan,
+pengurangan, perkalian,
+atau pembagian.
+Urutan pengerjaan operasi
+hitung campuran sebagai
+berikut:
+Dikerjakan dahulu
+pengerjaan di dalam
+kurung; Perkalian dan
+pembagian dikerjakan
+terlebih dahulu daripada
+penjumlahan atau
+pengurangan; Kerjakan
+penjumlahan dan
+pengurangan.
+KUKABATAKU (Kurung
+Kali Bagi Tambah Kurang)
+untuk memudahkan dalam
+memahami urutan operasi
+hitung bilangan bulat.
+Sama halnya seperti pada
+operasi hitung campuran
+bilangan cacah ,
+ingatlah(Kurung Kali Bagi
+Tambah Kurang) untuk
+memudahkan dalam
+memahami urutan operasi
+hitung bilangan bulat.
+Perhatikan contoh berikut:
+$5 + (3 - 1) = 5 + 2 = 7$
+$10 - 3 + 12 = 7 + 12 = 19$
+$3 \times 2 - 10 \div 5 = 6 -
+2 = 4$ $15 \div 3 \times 2 =
+5 \times 2 = 10$ Latihan
+Soal Operasi Hitung
+Campuran Bilangan Bulat
+1. Hasil dari $-9 \times [25+
+(-23)]=...$
+
+2. $-6.423+207-
+5.070:78=...$
+
+3. $(-25 \times 6) + (-25) -
+36 = ...$
+
+4. $20 + (-48) : (4 \times 3)
+= ...$
+
+
+
+
+A. Menuliskan Tanda
+Waktu dengan
+Menggunakan Notasi 24
+jam
+1. Menentukan Tanda
+Waktu dengan Notasi 12
+Jam
+Siang hari dari matahari
+terbit hingga matahari
+terbenam, lamanya ialah 12
+jam. Malam hari dari
+matahari terbenam hingga
+matahari terbit, lamanya 12
+jam. Matahari terbit pukul
+enam pagi, ditulis pukul
+06.00 pagi. Matahari
+terbenam pukul enam sore,
+ditulis pukul 06.00 sore.
+Tengah hari pukul dua
+belas, ditulis pukul 12.00
+siang. Menentukan tanda
+waktu dengan notasi 12
+jam, harus diberi
+keterangan pagi, sore, atau
+malam. Pukul 08.00 tanpa
+keterangan mempunyai 2
+arti yaitu pukul 08.00 pagi
+atau pukul 08.00 malam.
+2. Menentukan Tanda
+Waktu dengan Notasi 24
+Jam
+Dalam satu hari satu malam
+ada 24 jam. Perhitungan
+waktu dimulai pada pukul
+00.00 tengah malam dan
+berakhir pada tengah
+malam berikutnya. Waktu
+dimulai pukul 00.00
+dilanjutkan pukul 01.00 dan
+seterusnya sampai pukul
+12.00 siang.
+Setelah pukul 12 siang
+penulisan waktunya
+ditambah 12 jam. Misalnya
+pukul 01.00 siang ditulis
+pukul 13.00, pukul 02.00
+siang ditulis 14.00, dan
+seterusnya sampai pukul
+24.00. Notasi demikian
+disebut notasi 24 jam.
+B. Melakukan Operasi
+Hitung Satuan Waktu
+Penentuan menit dan detik
+dibaca pada jarum jam
+dimana jarum jam terdiri
+atas jarum pendek yang
+setiap perpindahan angka
+menunjukkan perpindahan
+jam. Yang kedua adalah
+jarum panjang yang setiap
+perpindahan angka
+menunjukkan detik. Untuk
+lebih jelasnya dapat kita
+lihat pada gambar jam
+berikut ini.
+1 jam = 60 menit
+1 menit = 60 detik
+1 jam = 3600 detik
+C. Melakukan Pengukuran
+Sudut
+Mari kita mengenal kembali
+macam-macam sudut,
+seperti yang terlihat pada
+gambar di bawah ini.
+1. Menggambar Sudut
+Sudut terbentuk oleh
+adanya dua ruas garis yag
+saling berpotongan dan titik
+perpotongan dua ruas garis
+disebut sudut. Amatilah
+beberapa ruas garis di
+bawah ini!
+2. Macam-Macam Sudut
+Jika dilihat dari segi bentuk,
+sudut dibagi menjadi tiga
+macam sudut sebagai
+berikut.
+a. Sudut lancip, yaitu sudut
+yang besarnya di bawah
+90°
+b. Sudut siku-siku, yaitu
+sudut yang besarnya 90°
+c. Sudut tumpul, yaitu sudut
+yang besarnya diatas 90°
+3. Mengukur Besar Sudut
+Besar sudut dapat
+ditentukan ayau diukur
+dengan berbagai cara.
+Diantaranya dengan
+menggunakan sudut satuan
+dan yang palimg tepat
+menggunakan sebuah alat
+yang disebut Busur Derajat.
+Busur derajat berbentuk
+setengah lingkaranyang
+besarnya 180 derajat.
+Besar suatu sudut
+ditetapkan dengan “derajat”
+yang ditulis dengan tanda
+nol kecil di belakang angka
+satuan derajat (…°)
+
+Perhatikan busur derajat
+dengan baik. Pada busur
+derajat yang berupa
+setengah lingkaran,
+terdapat skala yang
+berjarak sama dari 0
+sampai 180. Angka-angka
+tersebut ditulis dalam 2
+deret yang berlawanan.
+Sebelah luar dari kiri ke
+kanan dan sebelah dalam
+dari kanan ke kiri.
+
+Jika sudut yang
+gambar/ukur, berada di
+sebelah kanan digunakan
+skala dalam. Jika sudut
+yang digambar/ukur berada
+di sebelah kiri digunakan
+skala luar. Untuk
+memudahkan
+menggunakan busur
+derajat itu, tandai pada
+busur derajatmu dengan P
+(untuk titik pusat) dan pada
+garis mendatarnya dengan
+A dan B, serta C
+menunjukkan titik pada 90°.
+
+C. Mengenal Satuan Jarak
+dan Kecepatan
+
+Setelah mempelajari
+satuan waktu dan
+pengukuran sudut,
+Sekarang mari kita
+mengenal satuan jarak dan
+kecepatan.
+
+1. Satuan Jarak
+
+Jarak merupakan panjang
+lintasan yang dilalui.
+Satuan yang digunakan
+untuk menyatakan jarak
+sama dengan satuan
+panjang, yaitu kilometer
+(km), hektometer (hm),
+dekameter (dam), meter
+(m), desimeter (dm),
+centimeter (cm), dan
+milimeter (mm).
+
+Penggunaannya
+bergantung pada jauh
+dekatnya antara 2 benda
+atau tempat. Jarak antara 2
+kota dengan satuan jarak
+km. Jarak antara 2 rumah
+berdekatan dengan satuan
+m. jarak antara 2 benda
+diatas meja dengan satuan
+cm.
+
+2. Satuan Kecepatan
+
+Selama perjalanan, rata-
+rata tiap jam bus itu
+menempuh jarak sepanjang
+60 km. Dikatakan
+kecepatan bus itu60 km per
+jam atau 60 km/jam. Mobil
+yang lain, mungkin lebih
+cepat atau lebih lambat.
+Misalnya 45 km/jam, atau
+80 km/jam. Bentuk km per
+jam, atau km/jam itu
+merupakan satuan
+kecepatan.
+
+“Kecepatan adalah waktu
+yang digunakan untuk
+menempuh jarak tertentu
+dalam waktu tertentu“
+
+Iklan
+Kali ini kita akan
+membahas tentang materi
+menentukan tanda waktu.
+Materi ini biasanya dibahas
+pada jenjang SD. Dan disini
+terdapat sedikit contoh
+untuk membantu
+pemahaman pembaca.
+So, tanpa banyak basa-basi
+lagi, silahkan diamati,
+dicermati, dipahami dengan
+hati, pikiran, dan jiwa yang
+tenang…. Ingin tahu lebih
+lagi tentang math??
+Yukkks, lanjuutt ke materi
+kali ini… Let’s learn about it
+together!!
+Menentukan tanda waktu
+Dikelas sebelumnya kita
+sudah belajar cara
+membaca dan menuliskan
+waktu yang ditunjukkan
+oleh jarum jam.
+Pukul 05.00 dibaca pukul
+lima Pukul 01.30 dibaca
+pukul satu lebih tiga puluh
+menit atau pukul setengah
+dua Pukul 07.15 dibaca
+pukul tujuh lebih lima belas
+menit atau pukul tujuh
+seperempat Pukul 03.45
+dibaca pukul tiga lebih
+empat puluh lima menit
+atau pukul empat kurang
+seperempat.
+Dalam sehari semalam ada
+24 jam.
+Waktu dimulai pada pukul
+00.00 tengah malam,
+dilanjutkan pukul 01.00
+sampai pukul 12.00 siang.
+Setelah pukul 12.00 siang
+penulisan waktu dilanjutkan
+pukul 13.00, pukul 14.00,
+dan seterusnya sampai
+pukul 24.00.
+Kadang-kadang ditambah
+keterangan waktu
+dibelakang jam tersebut,
+misalnya pagi, siang, sore,
+atau malam.
+Perhatikan contoh berikut
+ini.
+Pukul 13.00 → (1 + 12 =
+13) atau dapat dibaca pukul
+1 siang Pukul 15.00 → (3 +
+12 = 15) atau dapat dibaca
+pukul 3 sore Pukul 21.30 →
+(9 + 12 = 21) atau dapat
+dibaca pukul 9.30 malam.
+Catatan :
+Setengah jam = 30 menit
+Seperempat jam = 15 menit
+2½ jam = 2 jam + 30 menit,
+dibaca 2 jam lebih 30 menit
+
+1 1/4 jam = 1 jam + 15
+menit, dibaca 1 jam lebih
+15 menit.
+
+Contoh :
+
+Pukul 08.00 dibaca pukul
+delapan pagi Pukul 04.30
+dibaca pukul empat lebih
+tiga puluh pagi atau pukul
+setengah lima pagi Pukul
+14.45 dibaca pukul dua
+lebih empat puluh lima
+siang atau pukul tiga
+kurang seperempat siang
+Pukul 15.30 dibaca pukul
+tiga lebih tiga puluh sore
+atau pukul setengah empat
+sore Pukul 17.15 dibaca
+pukul lima lebih lima belas
+sore atau pukul lima lebih
+seperempat sore. Pukul
+19.30 dibaca pukul tujuh
+lebih tiga puluh malam atau
+pukul setengah delapan
+malam.
+
+Semoga bermanfaat bagi
+kita semua.
+
+~TERIMAKASIH~
+
+Baca juga :
+Share Infomasi :
+Oleh: Intan Wijayanti, S.Pd.
+– Belajar Matematika
+Bersama Bu Intan Wijayanti
+A. Hubungan antar-satuan
+jarak
+Hubungan antar-satuan
+jarak itu berkaitan dengan
+satuan panjang. Jika kalian
+sudah mampu menguasai
+materi mengenai hubungan
+antar satuan panjang,
+maka itu akan
+memudahhkan kalian
+memahami materi
+hubungan antar-satuan
+jarak kali ini.
+Jarak merupakan panjang
+lintasan yang dilalui benda
+dari satu tempat ke tempat
+yang lain.
+merupakan panjang
+lintasan yang dilalui benda
+dari satu tempat ke tempat
+yang lain. Satuan yang
+digunakan untuk jarak
+sama dengan satuan
+panjang.
+Untuk lebih memahami
+hubungan antar satuan
+panjang dalam menentukan
+jarak,
+Perhatikan contoh!
+Jarak rumah Dea ke
+sekolah 2 km. Berapa
+meter jarak rumah Dea ke
+sekolah?
+Penyelesaian:
+Perhatikan satuan-satuan
+yang digunakan pada soal!
+Ubah satuan km menjadi
+m. (lihat tangga satuan di
+atas)
+3 kali turun tangga, maka
+dikali 1.000
+2 km = (2 x 1.000) meter=
+2.000 m
+Jadi, jarak rumah Dea ke
+sekolah adalah 2.000
+meter.
+2. Dodi berlari melintasi tiga
+nama jalan dalam sebuah
+perlombaan lari marathon.
+Panjang jalan pertama,
+kedua, ketiga, berturut-turut
+adalah 50 hm, 1,5 km, dan
+350.000 cm. Berapa meter
+jarak yang ditempuh Dodi
+dalam perlombaan
+marathon tersebut?
+Penyelesaian:
+Ubah satuan km, hm, dan
+cm menjadi m. (lihat tangga
+satuan diatas)
+50 hm = (50 x 100) m =
+5.000 m
+1,5 km = (1,5 x 1.000) m =
+1.500 m
+350.000 cm = (350.000 :
+100 ) m = 3.500 m
+5.000 m + 1.500 m + 3.500
+m = 10.000 m
+Jadi, jarak yang ditempuh
+Dodi pada saat lari
+marathon adalah 10.000
+meter.
+Hubungan antar satuan
+volume
+Volume adalah seberapa
+besar ruang yang dapat
+ditempati oleh suatu objek.
+adalah seberapa besar
+ruang yang dapat ditempati
+oleh suatu objek. Volume
+juga dapat dikatakan
+sebagai isi atau kapasitas.
+atau Satuan yang
+digunakan untuk mengukur
+volume yaitu sebagai
+berikut.
+Terdapat hubungan antara
+dua jenis satuan volume,
+yaitu sebagai berikut:
+1 kl = 1 m³ 1 liter = 1 dm³
+1 ml = 1 cm³ 1 cm³ = 1 cc
+Untuk memahami lebih
+lanjut hubungan antar
+satuan volume, perhatikan
+contoh berikut ini!
+6 hm³ = …. m³
+Penyelesaian:
+
+Ubah satuan hm³ menjadi
+m³.
+
+2 kali turun tangga, maka
+dikali 1.000.000
+
+6 hm³ = (6 x 1.000.000) m³
+= 6.000.000 m³
+Jadi, 6 hm³ = 6.000.000 m³
+
+2). 8.000 cl = …. dm³
+
+Penyelesaian:
+
+Ubah satuan cl menjadi
+dm³.
+
+Ingat! 1 liter = 1 dm³
+
+Berarti, ubah satuan cl ke l.
+
+2 kali naik tangga, maka
+dibagi 100
+
+8.000 cl = (8.000 : 100) liter
+= 80 liter = 80 dm³
+
+Jadi, 8.000 cl = 80 dm³
+
+3). Tangki pada sebuah truk
+berisi 8.000 liter bensin.
+Truk tersebut akan berhenti
+untuk mengisi 2.000.000
+cm³ bensin pada setiap
+SSPBU. Berapa kali truk
+tersebut berhenti untuk
+mengisi persediaan bensin
+di SPBU hingga bensin
+dalam tangka habis?
+
+Untuk lebih memahami
+penjelasannya, silahkan
+simak video
+pembelajarannya berikut ini
+.
+
+Gimana, mudah kan belajar
+Matematika ? Mudah,
+dong…
+Satuan berat adalah ukuran
+yang digunakan untuk
+menghitung berat atau
+beban suatu benda. Satuan
+ini sangat sering kita
+temukan dalam kehidupan
+sehari-hari, terutama dalam
+kegiatan perdagangan dan
+pengiriman barang.
+Dalam artikel ini, kita akan
+mempelajari tentang apa itu
+satuan berat, tangga
+satuannya, alat
+pengukurnya, hingga
+contoh soalnya. Simak
+penjelasan di bawah ini.
+Apa Itu Satuan Berat?
+Satuan berat adalah satuan
+yang digunakan dalam
+proses pengamatan atau
+penimbangan berat suatu
+objek, mengutip Maisarah
+dalam buku Pendidikan
+Matematika Sekolah Dasar.
+Menurut Maisarah, berat
+benda didefinisikan
+sebagai gaya gravitasi
+yang bekerja terhadap
+benda tersebut.
+Satuan berat yang
+digunakan mula-mula
+sebagai standar adalah
+gram, yang kemudian
+diubah menjadi kilogram.
+Standar yang berlaku saat
+ini adalah: 1 kilogram sama
+dengan 1 liter air murni
+bersuhu 40 derajat Celcius.
+Meski demikian, gram
+masih digunakan sebagai
+standar satuan berat untuk
+benda-benda kecil.
+Sementara benda-benda
+besar menggunakan satuan
+kilogram.
+Menurut Tesaurus Tematis
+Bahasa Indonesia, satuan
+berat mencakup miligram
+(mg), sentigram (cg),
+desigram (dg), gram (g),
+dekagram (dag), hektogram
+(hg), kilogram (kg), ons,
+pon, kati, kuintal, dan ton.
+Beberapa negara
+menggunakan standar ons
+dan pon alih-alih kilogram
+sebagai satuan berat.
+Cara Menggunakan
+Tangga Satuan Berat
+Seperti dijelaskan
+sebelumnya, Tesaurus
+Tematis Bahasa Indonesia
+menjabarkan cakupan
+satuan berat. Nah, deretan
+satuan berat itu biasanya
+diurutkan dengan tangga
+satuan berat untuk
+mempermudah
+penghitungan. Berikut
+gambar dan penjelasannya.
+Ilustrasi tangga satuan
+berat. Foto: dok. detikcom
+Setiap tangga berbeda satu
+nol di bagian paling
+belakang. Misalnya 1 kg =
+10 hg =100 dag, begitu
+seterusnya. Setiap turun
+satu tanggal, nilainya dikali
+10. Sebaliknya, setiap naik
+satu tangga, maka nilainya
+dibagi 10.
+Konversi Satuan Berat dari
+Gram dan Ton
+Selain gram dan kilogram,
+satuan berat juga
+menggunakan ton, kuintal,
+pon, dan ons. Berikut
+konversi satuan berat
+dikutip dari buku Pintar
+Menghadapi Ujian
+Matematika.
+1 ons = 100 gram
+1 ons = 1/5 pon
+1 pon = 5 ons
+1 pon = 1/2 kg
+1 kg = 2 pon
+1 kuintal = 1/10 ton
+1 ton = 10 kuintal = 1.000
+kg = 10.000 ons = 2.000
+pon
+1 kuintal = 100 kg = 1.000
+ons = 200 pon
+1 kg = 10 ons = 2 pon =
+0,01 kuintal = 0,001 ton
+1 ons = 0,1 kg = 0,001
+kuintal = 0,0001 ton
+1 kuintal = 0,1 ton
+Alat Ukuran Satuan Berat
+Berat suatu benda bisa
+diketahui dengan
+menimbangnya pada alat
+dengan ukuran satuan
+berat. Alat ukur berat pun
+dibagi menjadi berbagai
+jenis, menyesuaikan
+dengan benda yang
+ditimbang. Berikut macam-
+macam alat ukur berat
+dikutip dari buku Arif
+Cerdas untuk Sekolah
+Dasar Kelas 4 oleh
+Christiana Umi.
+1. Timbangan Gantung
+Alat ini digunakan untuk
+menimbang berat kotor
+suatu benda. Benda yang
+ditimbang antara lain padi,
+beras, gabah, tepung, dan
+benda-benda basah seperti
+minyak kelapa. Ukuran alat
+ini relatif kecil sehingga
+mudah dibawa ke mana-
+mana.
+2. Timbangan Lantai
+Alat ini digunakan untuk
+menimbang berat benda
+dalam jumlah besar.
+Biasanya timbangan lantai
+digunakan di pasar, pabrik,
+atau tempat penggilingan
+padi. Ukuran alat ini besar,
+tetapi ada roda di bagian
+bawah sehingga cukup
+mudah dipindahkan.
+3. Timbangan Bayi
+Seperti namanya,
+timbangan ini khusus untuk
+mengukur berat badan
+bayi. Bentuknya seperti
+besi atau plastik cekung
+tempat bayi dibaringkan.
+Alat ini umumnya ada di
+rumah sakit, puskesmas,
+posyandu, dan rumah
+bersalin.
+4. Timbangan Badan
+Untuk orang dewasa,
+mereka menggunakan
+timbangan badan untuk
+mengukur berat badan.
+Cara kerjanya dengan
+dinaiki oleh orang yang
+bersangkutan.
+5. Timbangan Bebek
+Timbangan ini biasanya
+ditemukan di pasar untuk
+mengukur berat telur,
+beras, gula, dan minyak
+goreng. Alat timbangan
+bebek umumnya digunakan
+untuk keperluan dagang.
+Terdapat dua bagian pada
+timbangan ini, yakni bagian
+untuk benda yang diukur
+beratnya dan bagian untuk
+besi penyeimbang.
+6. Timbangan Emas
+Alat ini digunakan untuk
+menimbang perhiasan.
+Bentuknya seperti neraca
+dengan bagian tergantung
+di kanan dan kiri. Alat ini
+umumnya berada di toko
+emas atau toko perhiasan.
+Perbedaan Satuan Ukuran
+Berat Baku dan Tidak Baku
+Mengutip buku Dasar-dasar
+Matematika untuk SD/MI
+Kelas 4-5-6, satuan dibagi
+menjadi dua, yakni satuan
+baku dan satuan tidak
+baku.
+Pada satuan berat, yang
+termasuk ukuran baku
+antara lain kilogram, gram,
+ton, ons, pon, dan kwintal.
+Satuan baku biasanya
+dipakai dalam
+penghitungan matematis.
+Sedangkan satuan berat
+yang tidak baku adalah
+mayan. Mayan digunakan
+untuk mengukur emas dan
+nilainya sama dengan 1/16
+bungkal atau anak
+timbangan.
+Contoh Soal Satuan Berat
+Contoh Soal 1
+6 pon + 12 kuintal + 7.200
+ons = ... kilogram
+
+Pembahasan:
+
+6 pon = 3 kilogram
+
+12 kuintal = 1.200 kilogram
+
+7.200 ons = 720 kg
+
+Jadi, jumlahnya adalah 3 +
+1.200 + 720 = 1.923
+kilogram.
+
+Contoh Soal 2
+
+Ibu akan membuat adonan
+yang terdiri atas terigu 3 hg,
+gula 25 dag, dan mentega
+1.000 dg. Berapa gram
+berat adonan tersebut?
+
+Pembahasan:
+
+Terigu 3 hg = 300 gram
+
+Gula 25 dag = 250 gram
+
+Mentega 1.000 dg = 100
+gram
+
+Jadi, berat adonan adalah
+300 + 250 + 150 = 700
+gram.
+
+Contoh Soal 3
+
+Pada saat Bapak belanja
+ke pasar, Bapak membeli
+beras 3/5 kuintal, tepung
+terigu 20 kilogram, dan ikan
+laut 200 ons. Berapa
+kilogram semua belanjaan
+Bapak?
+
+Pembahasan:
+
+Beras 3/5 kuintal = 60
+kilogram
+
+Tepung terigu = 20
+kilogram
+
+Ikan laut 200 ons = 20
+kilogram
+
+Jadi, jumlah belanjaan
+Bapak adalah 60 + 20 + 20
+= 100 kilogram.
+Demikian penjelasan
+lengkap mengenai satuan
+berat. Semoga bermanfaat
+untuk kehidupanmu sehari-
+hari, detikers!
+
+Ada Terduga Teroris,
+Standar Masuk MUI
+Dipertanyakan
+Jarak merupakan angka
+yang menunjukkan
+seberapa jauh suatu benda
+berubah posisi. Satuan
+jarak dalam SI adalah
+meter. Akan tetapi, satuan
+jarak bisa berubah sesuai
+dengan instruksi
+pertanyaan yang tersedia.
+Kecepatan adalah besaran
+yang menunjukkan
+seberapa cepat benda
+berpisah. Satuan SI dari
+kecepatan adalah m/s dan
+bisa berubah sesuai
+dengan instruksi
+pertanyaan.
+Simaklah latihan soal dan
+pembahasannya berikut ini!
+1. Naka mengendarai motor
+dari kota Malang ke kota
+Demak. Ia berangkat pada
+pukul 15.30 dan tiba di
+Demak pada pukul 20.00.
+Berapa jam lama
+perjalanan yang ditempuh
+oleh Naka?
+4 jam 30 menit 3 jam 30
+menit 2 jam 30 menit 1 jam
+30 menit
+2. Elina berlari mengelilingi
+taman kompleks rumahnya
+sebanyak 5 putaran. Dalam
+satu putaran ia
+membutuhkan waktu
+selama 2 menit 20 detik.
+Maka, lama waktu yang
+dibutuhkan Elina untuk
+menyelesaikan larinya
+adalah...
+10 menit 40 detik 11 menit
+40 detik 10 menit 60 detik
+11 menit 60 detik
+3. Sebuah motor melaju
+dengan kecepatan 60
+km/jam dengan waktu
+tempuh selama 2 jam 45
+menit. Maka jarak yang
+ditempuh oleh motor
+tersebut adalah...
+50 km 75 km 90 km 100 km
+4. Jarak kota A ke kota B
+adalah 180 km. Apabila
+jarak tersebut ditempuh
+dengan kecepatan rata-rata
+30 km/jam. Maka, waktu
+yang digunakan untuk
+menempuh jarak tersebut
+adalah...
+3 jam 4 jam 5 jam 6 jam
+5. Jarak kota Solo dan
+Klaten kira-kira 200 km
+yang ditempuh dalam
+waktu 2 jam 30 menit
+menggunakan sepeda
+motor. Maka berapa
+kecepatan rata-rata sepeda
+motor tersebut?
+20 km/jam 40 km/jam 60
+km/jam 80 km/jam
+6. Saat liburan sekolah,
+Maya berencana untuk
+mengunjungi rumah
+neneknya di desa. Jarak
+rumah Maya dengan rumah
+neneknya kira-kira 100 km.
+Jarak tersebut ditempuh
+dengan kecepatan rata-rata
+50 km/jam. Maya akan
+berangkat pada pukul
+19.00. Maka pada jam
+berapa Maya akan tiba di
+rumah neneknya?
+20.00 21.00 22.00 23.00
+7. Eko berjalan kaki selama
+2 jam dengan kecepatan
+rata-rata yang dilaluinya 5
+km/jam. Maka, berapa jarak
+yang telah ditempuh oleh
+Eko?
+15 km 17 km 18 km 20 km
+8. Bima menempuh
+perjalanan dengan
+mobilnya sejauh 144 km.
+Apabila waktu yang
+ditempuh Bima 4 jam. Maka
+kecepatan rata-rata mobil
+yang dikendarai oleh Bima
+adalah...m/detik.
+36 km/detik 63 m/detik 10
+m/detik 10 km/detik
+9. Christo bepergian ke
+kota Surabaya dengan
+kecepatan rata-rata 70
+km/jam. Ia berangkat dari
+rumah pukul 05.50 dan
+sampai di Surabaya pada
+pukul 09.20. Berapa jarak
+yang dilalui oleh Christo?
+245 km 254 km 425 km 452
+km
+10. Nala bersepeda dengan
+kecepatan rata-rata 12
+km/jam. Jika jarak yang
+ditempuh adalah 60 km.
+Berapa waktu yang
+dibutuhkan Nala untuk
+sampai ke tempat tujuan?
+3 jam 5 jam 8 jam 2 jam
+11. Kayla pergi ke rumah
+temannya yang berjarak
+120 km. Kayla
+mengendarai motor dengan
+kecepatan rata-rata 40
+km/jam. Jika Kayla
+berangkat dari rumah pukul
+10.00, maka ia akan tiba
+dirumah temannya pada
+pukul?
+12.00 13.00 15.00 16.00
+12. Jarak sekolah Aldo ke
+bandara adalah 60 km.
+Jarak tersebut ditempuh
+Aldo selama 2 jam. Berapa
+kecepatan yang diperlukan
+Aldo untuk tiba di Bandara?
+15 km/jam 20 km/jam 30
+km/jam 40 km/jam
+13. Ibu mengendarai
+sepeda motor dengan
+kecepatan rata-rata 40
+km/jam. Apabila ibu
+berangkat dari rumah pukul
+08.00 dan sampai di pasar
+pukul 08.45. Jarak dari
+rumah ke pasar adalah...
+30 km 40 km 45 km 55 km
+14. Sebuah mobil
+berangkat dari kota A ke
+kota B dengan kecepatan
+rata-rata 75 km/jam. Jarak
+kota A ke kota B 180 km.
+Jika mobil tiba di kota B
+pukul 10.00, mobil tersebut
+berangkat dari kota A
+pukul...
+06.34 06.37 07.33 07.36
+15. Jarak sekolah dengan
+rumah Ilyas adalah 1,8 km.
+Ilyas berangkat dar rumah
+pukul 06.20. Agar pukul
+07.00 Ilyas sudah sampai di
+sekolah, maka ia harus
+mengayuh sepeda dengan
+kecepatan...m/detik
+0,30 m/detik 0,50 m/detik
+0,60 m/detik 0,75 m/detik
+16. Panjang keliling
+lapangan 600 m. Hani
+berlari dengan kecepatan
+30 m/menit. Hani dapat
+mengelilingi lapangan
+dalam waktu...menit
+30 menit 45 menit 60 menit
+75 menit
+17. Sania bersepeda ke
+taman selama 15 menit
+dengan kecepatan rata-rata
+5 km/jam. Jarak rumah
+dengan taman adalah...km
+1,05 km 1,25 km 2,25 km
+2,50 km
+18. Kereta api Siemens
+Velaro dapat melesat
+dengan kecepatan
+maksimum 350 km/jam.
+Jika kereta api Siemens
+Velaro dioperasikan di
+Indonesia, maka kota
+Jakarta dan Surabaya yang
+berjarak 1.050 km dapat
+ditempuh dalam waktu...
+1 jam 2 jam 3 jam 4 jam
+19. Kakak pergi ke kota
+mengendarai sepeda
+motor. Ia berangkat dari
+pukul 07.45 dan sampai di
+kota pukul 08.15. Jika ia
+melaju dengan kecepatan
+rata-rata 60 km/jam, maka
+jarak dari rumah ke kota
+adalah...km
+30 km 45 km 50 km 60 km
+20. Luna bersepeda selama
+1 ½ jam dengan kecepatan
+rata-rata 15 km/jam. Jarak
+yang ditempuh Luna
+adalah...km
+20,5 km 21,5 km 22,5 km
+23,5 km
+Kumpulan Soal
+Matematika:
+Jawaban
+1. A. 4.30 jam
+Lama perjalanan = waktu
+tiba – berangkat
+= 20.00 – 15.30 = 4.30
+2. B. 11 menit 20 detik
+x 2 menit 20 detik
+10 menit 100 detik
+11 menit 40 detik
+3. C. 90 km
+Jarak = kecepatan x waktu
+= 60 km/jam x 2 jam 45
+menit
+= 60. 2 ¾ jam
+= 90 km
+4. D. 6 jam
+Waktu = jarak : kecepatan
+= 180 : 30
+= 6 jam
+5. D. 80 km/jam
+Kecepatan = jarak : waktu
+= 200 : 2 jam 30 menit
+= 200 : 2 ½ jam
+= 80 km/jam
+6. B. 21.00
+Waktu = jarak : kecepatan
+= 100 : 50
+= 2 jam
+Jadi, waktu berangkat +
+lama perjalanan
+2 jam
+21.00
+7. A. 15 km
+Jarak = kecepatan x waktu
+=5x3
+= 15 km
+8. C. 10 m/detik
+Kecepatan = jarak : waktu
+= 144.000 : 14.400
+= 10 m/detik
+9. A. 245 km
+Jarak = kecepatan x waktu
+= 70 x (09.20 – 05.50)
+= 70 x 3,5
+= 245 km
+10. B. 5 jam
+Waktu = jarak : kecepatan
+= 60 : 12
+= 5 jam
+11. B. 13.00
+Waktu = jarak : kecepatan
+
+= 120 : 40
+
+= 3 jam
+
+Waktu = 10.00 + 03.00
+
+= 13.00
+
+12. C. 30 km/jam
+
+Kecepatan = jarak : waktu
+
+= 60 : 2
+
+= 30 km/jam
+
+13. A. 30 km
+
+Jarak = kecepatan x waktu
+
+= 40 x (08.45-08.00)
+
+= 40 x (45/60)
+
+= 40 x ¾
+
+= 30 km
+
+14. D. 07.36
+
+Waktu = jarak : kecepatan
+
+= 180 : 75
+
+= 2,4 jam = 144 menit = 2
+jam 24 menit
+= 10.00 – 2.24
+
+= 07.36
+
+Jadi, mobil berangkat pada
+pukul 07.36
+
+15. D. 0,75 m/detik
+
+Jarak = 1.8 km = 1.800 m
+
+Waktu = 07.00 – 06.20 = 40
+menit = 2.400 detik
+
+Kecepatan = jarak : waktu
+
+= 1.800 : 2.400
+
+= 0,75 m/detik
+
+16. A. 30 menit
+
+Waktu = jarak : kecepatan
+
+= 600 : 20
+
+= 30 menit
+
+17. B. 1,25 km
+
+Waktu = 15 menit = ¼ jam
+
+Jarak = kecepatan x waktu
+
+=5x¼
+
+= 1,25 km
+
+18. C. 3 jam
+
+Waktu = jarak : kecepatan
+
+= 1.050 : 350
+
+= 3 jam
+
+19. A. 30 km
+
+Waktu = 08.15 – 07.45 = 30
+menit = ½ jam
+
+Jarak = kecepatan x waktu
+
+= 60 x ½
+
+= 30 km
+
+20. C. 22,5 km
+
+Jarak = kecepatan x waktu
+
+= 15 x 1 ½
+
+=
+A.22,5  km DATAR
+   BANGUN
+SPESIFIKASI
+e. Mempunyai 4 titik sudut.
+RUMUS
+Rumus Luas Persegi
+L = sisi x sisi
+Rumus Keliling Persegi
+K = 4 x sisi
+B. PERSEGI PANJANG
+SPESIFIKASI
+a. Persegi panjang
+merupakan bangun datar
+yang mempunyai 4 sisi.b.
+Mempunyai 4 sudut siku-
+siku 90⁰.
+c. Mempunyai 2 diagonal
+yang sama panjang
+d. Sisi yang berhadapan
+sama panjang dan sejajar.
+e. Sisi-sisi persegi panjang
+saling tegak lurus
+f. Mempunyai 2 simetri
+putar
+RUMUS
+Luas Persegi Panjang
+L=pxl
+Keliling Persegi Panjang
+K = 2 x ( panjang + lebar )
+C. SEGITIGA
+SPESIFIKASI Segitiga
+adalah bangun geometri
+yang dibentuk oleh 3 buah
+(sisi) dan membentuk 3
+buah titik sudut
+Jumlah sudut pada segitiga
+besarnya 180⁰ didapat dari
+penjumlahan 3 sudutnya.
+Bangun segitiga
+disimbolkan dengan ∆.
+RUMUS :
+Luas Segitiga L = alas x
+tinggi 2
+Keliling segitiga
+K = sisi 1 + sisi 2 + sisi 3 (
+JUMLAH SELURUH SISI =
+AB+BC+CA )
+D. JAJAR GENJANG
+SPESIFIKASI
+a. Jajaran genjang
+merupakan bangun datar
+yang mempunyai 4 buah
+sisi.
+b. Mempunyai 4 sudut, 2
+sudut berpasangan dan
+berhadapan.
+c. Sudut yang saling
+berdekatan besarnya 180⁰.
+d. Mempunyai 2 diagonal
+yang tidak sama panjang.
+e. Tidak mempunyai simetri
+lipat dan simetri putar.
+f. Sisi yang berhadapan
+sejajar dan sama panjang.
+g. Dua sisi lainnya tidak
+saling tegak lurus.
+RUMUS :
+Keliling Jajaran Genjang
+K = 2 x ( panjang + lebar )
+Luas Jajaran Genjang
+L= alas x tinggi
+E. BELAH KETUPAT
+SPESIFIKASI :
+a. Belah ketupat
+merupakan bangun
+geometri yang dibatasi 4
+sisi sama panjang.
+b. Mempunyai 2 diagonal
+yang berbeda panjangnya.
+c. Mempunyai 4 titik sudut.
+d. Sudut yang berhadapan
+besarnya sama.
+
+e. Sisinya tidak tegak lurus.
+
+
+
+
+f. Mempunyai 2 simeteri
+putar.
+
+RUMUS :
+Luas Belah Ketupat
+
+
+
+
+L= ½ x diagonal 1 x
+diagonal 2
+
+Keliling Belah Ketupat
+
+
+
+K = 4 x sisi F. LAYANG-
+LAYANG SPESIFIKASI a.
+Layang-layang adalah
+bangun geometri berbentuk
+segiempat yang terbentuk
+dari dua segitiga b. sama
+kaki yang alasnya
+berhimpitan.
+
+
+
+c. Mempunyai 4 sisi
+sepasang-sepasang yang
+sama panjang.
+
+
+
+d. Mempunyai 4 buah
+sudut.
+
+
+
+e. Sepasang sudut yang
+berhadapan sama besar. f.
+Mempunyai 2 diagonal
+berbeda dan tegak lurus. g.
+Tidak mempunyai simetri
+putar RUMUS :
+
+Luas Layang-Layang
+
+
+
+
+L = diagonal 1 x diagonal 2
+
+
+
+2
+
+Keliling Layang-Layang
+
+K = 2 x ( sisi panjang + sisi
+pendek )
+
+G. TRAPESIUM
+
+SPESIFIKASI
+
+Trapesium adalah bangun
+segiempat dengan
+sepasang sisi berhadapan
+sejajar.
+
+
+
+
+Tiap pasang sudut yang
+sisinya sejajar adalah 180⁰.
+Jenis-jenis trapesium :a.
+Trapesium Siku-SIku :
+mempunyai sudut siku-siku.
+
+
+
+
+b. Trapesium Sama Kaki :
+mempunyai sepasang kaki
+sama panjanga.
+
+c. Trapesium Sembarang :
+mempunyai sisi-sisi yang
+berbeda.
+
+RUMUS
+PERNAHKAH kamu
+mendengar atau bahkan
+melihat bangunan
+berbentuk trapesium di
+sekitarmu? Ya, trapesium
+dapat dikatakan bangun
+datar (dua dimensi) yang
+bentuknya ‘aneh’, karena
+ada kombinasi segitiga dan
+persegi.
+Bicara soal trapesium yang
+memiliki bentuk seperti atap
+rumah ini memang wajib
+dipelajari terutama dalam
+materi Geometri di mata
+pelajaran Matematika.
+Sama halnya dengan
+persegi, persegi panjang,
+maupun segitiga,
+keberadaan trapesium juga
+akan berkaitan dengan
+rumus menghitung luas dan
+kelilingnya.
+Jika sama halnya dengan
+bangun datar segiempat
+lain, lalu bagaimana sih
+rumus untuk menghitung
+keliling dari trapesium ini?
+Bagaimana pula
+karakteristik dari trapesium
+yang membedakannya
+dengan bangun datar
+lainnya? Nah, supaya sobat
+MI paham akan hal
+tersebut, berikut ini
+penjelasannya.
+1. Apa itu trapesium?
+Trapesium adalah bangun
+datar dua dimensi yang
+dibentuk oleh empat buah
+rusuk yang dua di
+antaranya saling sejajar
+namun tidak sama panjang.
+Trapesium termasuk jenis
+bangun datar segi empat
+yang mempunyai ciri
+khusus.
+2. Ciri-ciri trapesium
+Ada dua sudut yang
+berdekatan, disebut sudut
+sepihak
+Memiliki sepasang sisi
+sejajar
+Memiliki satu simetri putar
+Memiliki empat rusuk dan
+empat titik siku
+Memiliki diagonal yang
+sama panjang
+Memiliki sepasang sudut
+siku.
+3. Jenis-jenis trapesium
+Dalam materi bangun datar,
+trapesium bisa dibedakan
+atau dikelompokkan lagi
+berdasarkan jenisnya.
+Trapesium memiliki
+setidaknya tiga jenis, yakni:
+a. Trapesium Sembarang
+Apabila digambarkan,
+trapesium sembarang
+memiliki bentuk hampir
+serupa dengan dua jenis
+trapesium lainnya. Akan
+tetapi, ada ciri yang
+membedakannya seperti
+panjang sisinya berbeda
+dan tidak tegak lurus.
+b. Trapesium Sama Kaki
+Trapesium jenis ini memiliki
+satu simetri lipat dan putar,
+ia juga memiliki dua sisi
+yang sama panjang.
+c. Trapesium Siku-Siku
+Kedua sisinya sejajar dan
+memiliki dua buah sudut
+siku-siku atau 90°. Ia bisa
+dikatakan sebagai jenis
+trapesium yang tidak punya
+simetri putar ataupun lipat.
+4. Rumus luas trapesium
+Rumus luas trapesium
+sebetulnya mudah, ia bisa
+diuraikan sebagai luas
+yang sama dengan
+setengah kali luas jajar
+genjang yang tingginya
+sama dengan tinggi
+trapesium. Alasnya juga
+sama dengan semua
+panjang sisi sejajar
+trapesium.
+
+Jika sebuah trapesium
+memiliki tinggi "t" dan
+panjang sisi yang sejajar
+"a" dan "b", maka luas
+trapesium (t) adalah L = 1/2
+× t ( a + b ).
+
+Nah, dalam ilmu
+matematika, rumus luas
+trapesium adalah sebagai
+berikut: L = 1/2 × t ( AB +
+CD ).
+
+Rumus ini bisa
+diaplikasikan untuk mencari
+luas trapesium.
+
+Contohnya: jika sebuah
+trapesium memiliki sisi
+sejajar 16 cm, 10 cm, dan
+tingginya 8 cm, maka bisa
+dijabarkan seperti di bawah
+ini:
+
+Diketahui: a = 16 cm, b =
+10 cm, dan t = 8 cm.
+
+L = 1/2 × t ( a + b )
+
+L = 1/2 × 8 ( 16 + 10 ). L =
+1/2 × 8 × 26.
+
+L = 104.
+Dari jawaban di atas maka
+hasil luas trapesium itu
+adalah 104 cm.
+
+Nah, gimana apakah kalian
+sudah bisa memahami luas
+dari trapesium ? semoga
+bermanfaat yah sobat.(OL-
+5)
+Trapesium adalah bangun
+dua dimensi bersisi empat
+dengan sisi sejajar dan
+panjang berbeda. Rumus
+untuk menghitung luas
+trapesium adalah L = ½(b 1
++b 2 )t, yaitu b 1 dan b 2
+adalah panjang sisi-sisi
+sejajar dan t adalah tinggi.
+Kalau hanya mengetahui
+panjang sisi trapesium
+biasa, Anda bisa memecah
+trapesium menjadi bangun-
+bangun sederhana dan
+menemukan tinggi dan
+menyelesaikan
+perhitungan. Kalau sudah
+selesai, cukup bubuhkan
+satuan berdasarkan unit
+panjang sisi trapesium!
+Rumus volume kubus
+termasuk materi dasar
+dalam pembelajaran
+matematika. Menemukan
+kapasitas bagun ruang ini
+sejatinya telah diajarkan
+sejak kita duduk di bangku
+sekolah dasar. Karenanya,
+tak sedikit orang lupa
+tentang seluk-beluk kubus.
+Kubus adalah bangun
+ruang yang terdiri dari
+beberapa persegi. Terdapat
+enam bidang sisi yang
+berbentuk bujur sangkar.
+Oleh karena itu, kubus juga
+sering disebut sebagai
+bidang enam beraturan.
+Pemberian nama kubus
+menurut titik sudutnya,
+berurutan dari bidang alas
+ke bidang atas (tutup).
+Sementara itu, menurut
+Kamus Besar Bahasa
+Indonesia (KBBI), kubus
+didefinisikan sebagai ruang
+yang terbatas enam bidang
+segi empat.
+Rumus Volume Kubus
+Rumus volume kubus
+diartikan sebagai isi atau
+besarnya benda ruang.
+Rumus volume kubus
+merupakan perkalian
+panjang, lebar, dan tinggi
+kubus. Panjang sisi-sisi dan
+rusuk kubus adalah sama.
+Rumus tersebut disusun
+sebagai berikut:
+Advertisement
+Rumus volume kubus: V =
+s x s x s atau V = s3.
+Contoh Soal Rumus
+Volume Kubus
+1. Diketahui sebuah kubus
+mempunyai panjang rusuk
+3 cm. Berapa volume kubus
+tersebut?
+Jawaban:
+V=sxsxs
+V=3x3x3
+V = 27
+2. Diketahui sebuah kubus
+mempunyai panjang rusuk
+10 cm. Berapa volume
+kubus tersebut?
+Jawaban:
+V=sxsxs
+V = 10 x 10 x 10
+V = 1000
+Ciri-ciri Kubus
+Sama halnya dengan
+bangun ruang lain yang
+memiliki karakteristik dan
+sifat masing-masing,
+kubusnya juga memiliki ciri
+tersendiri. Agar lebih
+mudah, perhatikan gambar
+berikut ini:
+Rumus volume kubus
+(Katadata)
+Memiliki enam sisi dengan
+panjang yang sama besar
+setiap sisinya. Berdasarkan
+gambar di atas maka yang
+dimaksud dengan sisi
+kubus yaitu, ABCD, BFGC,
+EFGH, AEHD.
+Setiap sisi kubus berbentuk
+persegi.
+Memiliki 12 rusuk yang
+setiap rusuknya sama
+panjang. Rusuk adalah
+garis persekutuan atau
+perpotongan antara dua
+sisi. Berdasarkan gambar
+di atas maka yang
+dimaksud rusuk kubus yaitu
+AB, BC, CD, DA, EF, FG,
+GH, HE, DH, AE, BF, dan
+CG.
+Memiliki total 8 titik sudut.
+Berdasarkan gambar di
+atas maka yang dimaksud
+titik sudut yaitu A, B, C, D,
+E, F, G, H.
+Memiliki 12 sisi diagonal
+sisi yang sama panjang.
+Memiliki 4 diagonal ruang
+yang sama panjang.
+Memiliki beberapa bentuk
+jaring-jaring kubus. Jaring-
+jaring kubus adalah kubus
+yang sebagian rusuknya
+digunting. Seluruh sisinya
+direbahkan sehingga
+menjadi bangun datar.
+Kubus memiliki bangun
+yang sesuai dengan cara
+mengguntingnya.
+Memiliki volume dan luas
+permukaan .
+Unsur Pembentuk Kubus
+Sisi atau bidang: Sisi kubus
+adalah bidang yang
+membatasi kubus. Ada
+enam buah sisi yang
+berbentuk persegi ABCD
+(sisi bawah), EFGH (sisi
+atas), ABFE (sisi depan),
+CDHG (sisi belakang)
+BCGF (sisi samping kiri),
+dan ADHE (sisi samping
+kanan).
+Rusuk: Rusuk kubus
+merupakan garis potong
+antara dua sisi bidang
+kubus dan terlihat seperti
+kerangka yang menyusun
+kubus. Sisi kubus memiliki
+sama luas satu sama lain.
+Kubus ABCD.EFGH
+memiliki 12 buah rusuk
+yaitu AB, BC, CD, DA, EF,
+FG, GH, HE, AE, BF, CG,
+dan DH.
+Titik sudut: Titik sudut
+kubus merupakan titik
+potong antara dua rusuk
+kubus ABCD.EFGH yang
+memiliki 8 buah titik sudut
+yaitu titik A,B,C,D,E,F,G,
+dan H.
+Diagonal : Selain sisi,
+rusuk, dan titik sudut pada
+diagonal. Ada tiga diagonal
+kubus yaitu diagonal
+bidang, diagonal ruang,
+dan bidang diagonal.
+Diagonal bidang: Kubus
+ABCD.EFGH terdapat garis
+AF yang menghubungkan
+kedua titik sudut yang
+saling berhadapan dalam
+satu sisi atau bidang. Ruas
+garis ini dinamakan
+diagonal bidang. Diagonal
+ruang: Kubus ABCD.EFGH
+memiliki ruas garis HB
+yang menghubungkan dua
+titik sudut yang saling
+berhadapan dalam satu
+ruang. Ruas garis itu
+disebut diagonal ruang.
+Bidang diagonal: Pada
+kubus ABCD.EFGH
+memiliki dua buah diagonal
+bidang yaitu AC dan EG.
+Diagonal bidang AC dan
+EG beserta dua rusuk
+kubus yang sejajar, yaitu
+AE dan CG membentuk
+suatu bidang diagonal di
+dalam ruang kubus yaitu
+bidang ACGE.
+Rumus Luas Permukaan
+Kubus
+Luas permukaan adalah
+jumlah permukaan yang
+memiliki satuan jarak
+kuadrat, atau secara
+sederhana dapat
+digambarkan dengan
+jumlah luas pada
+permukaan sebuah objek.
+Perlu diingat, satuan dari
+luas permukaan tidak
+mutlak dalam meter (m),
+biasanya mengikuti
+permintaan dari soal, jika
+soal minta dalam satuan
+cm, maka di hitung dalam
+cm.
+Berdasarkan ciri-ciri yang
+telah disebutkan
+sebelumnya, dapat
+disimpulkan bahwa kubus
+terdiri dari 6 persegi yang
+disusun menjadi sebuah
+bangun ruang. Oleh karena
+itu luas permukaan dari
+kubus secara sederhana
+bisa dikatakan sama
+dengan 6 x luas persegi.
+Contoh Soal Luas
+Permukaan
+
+1. Sebuah kubus memiliki
+panjang sisi 10 cm.
+Hitunglah luasnya!
+
+Jawab:
+
+Diketahui : s = 10 cm
+
+Ditanya : Luas permukaan?
+
+L = 6 x s2
+
+L = 6 x 10 x 10
+
+L = 600 cm2
+
+Luas permukaan kubus
+adalah 600 cm2.
+
+2. Sebuah kubus yang
+memiliki panjang sisi 24
+cm. Berapa luas
+permukaan kubus
+tersebut?
+
+Jawab:
+
+Diketahui:
+
+S = 24 cm
+
+Ditanya : Luas permukaan?
+
+L = 6 x s2
+
+L = 6 x 24 x 24
+
+L = 3.456 cm2
+
+Luas permukaan kubus
+adalah 3.456 cm2.
+Bangun ruang adalah suatu
+bangunan tiga dimensi
+yang memiliki volume atau
+isi. Contoh bangun ruang
+adalah kubus, balok,
+tabung, prisma, limas,
+kerucut, dan bola.
+Bangun ruang sisi datar
+adalah sebuah bangun
+ruang yang memiliki sisi
+datar. Contoh bangun
+ruang ini adalah kubus,
+balok, prisma, dan limas.
+Sebuah bangun ruang
+mempunyai bidang sisi,
+rusuk, titik sudut, diagonal
+sisi, bidang diagonal, dan
+diagonal ruang.
+Balok merupakan bangun
+ruang yang memiliki titik
+sudut, rusuk, dan sisi.
+Contoh benda berbentuk
+balok adalah kotak
+makanan, kotak korek api,
+dan lemari. Setiap bidang
+sisi benda tersebut memiliki
+sisi yang berhadapan dan
+ukuran yang sama.
+Balok adalah bangun ruang
+yang memiliki tiga pasang
+sisi berhadapan yang
+sama. Bentuk dan ukuran
+setiap sisi persegi panjang.
+Pada balok ada 3 pasang
+sisi-sisi yang sama
+panjang. Bangun tersebut
+dinamakan balok
+ABCD.EFGH.
+Advertisement
+Baca Juga Rumus Volume
+Tabung dan Contoh
+Soalnya
+Rumus Volume Balok
+Rumus Volume Balok
+adalah menghitung sisi
+yang sama panjang (p),
+lebar (l), dan tinggi (t).
+Volume balok = luas alas x
+tinggi
+V=pxlxt
+Jadi, volume balok = p x l x
+t
+Rumus Mencari Volume
+Balok
+Menghitung volume balok
+perlu dicari dimensi
+panjang, lebar, dan tinggi
+balok tersebut. Rumus
+volume balok adalah V = p
+x l x t dimana setiap
+dimensi memiliki satuan
+yang sama. Satuan
+panjang volume adalah
+centimeter kubik (cm3) atau
+meter kubik (m3).
+Ada juga luas permukaan
+balok yang memiliki 6 sisi
+terdiri dari 3 pasang sisi
+yang saling berhadapan
+sesuai bentuk dan ukuran
+yang sama. Luas
+permukaan balok adalah
+luas seluruh bidang pada
+sisi balok. Perhatikan
+gambar berikut:
+Pada balok ABCD.EFGH :
+Sisi ABCD berhadapan
+dengan sisi EFGH.
+AB = CD = EF = GH =
+panjang balok = p.
+BC = AD = FG = EH = lebar
+balok = l.
+Luas sisi ABCD dan EFGH
+=2××pl
+Sisi ABCD berhadapan
+dengan sisi EFGH. AB =
+CD = EF = GH = panjang
+balok = p. BC = AD = FG =
+EH = lebar balok = l. Luas
+sisi ABCD dan EFGH = 2 ×
+× p l Sisi ADHE
+berhadapan dengan sisi
+BCGF.
+AD = EH = BC = GF = lebar
+balok = l.
+AE = DH = BF = CG =
+tinggi balok = t.
+Luas sisi ADHE dan BCGF
+=2×lxt
+AD = EH = BC = GF = lebar
+balok = l. AE = DH = BF =
+CG = tinggi balok = t. Luas
+sisi ADHE dan BCGF = 2 ×
+l x t Sisi ABFE berhadapan
+dengan sisi DCGH.
+AB = EF = DC = GH =
+panjang balok = p.
+AE = BF = DH = CG =
+tinggi balok = t.
+Luas sisi ABFE dan DCGH
+=2×pxt
+Jadi luas permukaan balok
+= luas sisi ABCD + luas sisi
+EFGH + luas sisi ADHE +
+luas sisi BCGF + luas sisi
+ABFE + luas sisi DCGH
+=2xpxl+2xlxt+2xp
+xt
+= 2 ( pl + lt + pt)
+Jadi, luas permukaan balok
+= 2 ( pl + lt + pt)
+Contoh Soal Volume Balok
+Dari buku "Asyiknya Belajar
+Bangun Ruang Sisi Datar"
+yang ditulis Nur Laila Indah
+Sari, berikut contoh soal
+dan pembahasan tentang
+volume balok:
+1. Diketahui luas
+permukaan balok yaitu:
+p = 28 cm
+l = 24 cm
+t = 10 cm
+Volume balok = p x l x t
+= 8 x 24 x 10
+= 6720 cm3
+2. Diketahui volume suatu
+balok adalah 105 cm3,
+tinggi balok 5 cm dan
+panjangnya 7 cm. Tentukan
+lebar balok tersebut.
+Diketahui:
+V = 105 cm3
+t = 5 cm
+p = 7 cm
+Jawab:
+Volume balok = p x l x t
+105 = 7 x l x 5
+105 = 35 x l
+l = 105 : 35
+l=3
+3. Hitunglah luas
+permukaan balok jika
+diketahui:
+V = 24 cm3
+p = 4 cm
+l = 3 cm
+Jawab:
+
+V=pxlxt
+
+24 = 4 x 3 x t
+
+24 = 12 x t
+
+t = 24 : 12
+
+t = 2 cm
+
+Luas permukaan balok
+
+= (2 x p x l) + (2 x l x t) + (2
+x p x t)
+
+= (2 x 4 x 3) + (2 x 4 x 2) + (
+2 x 3 x 2)
+
+= 24 + 16 + 12
+
+= 52 cm
+
+Baca Juga Rumus Volume
+Kubus Serta Latihan Soal
+dan Jawabannya
+
+Ciri-Ciri Balok
+
+Volume balok (Buku
+Asyiknya Belajar Bangun
+Ruang Sisi Datar)
+
+1. Memiliki 6 bidang sisi
+berbentuk persegi panjang
+
+Balok mempunyai 6 bidang
+sisi yaitu ABCD, EFGH,
+BCGF, ADHE, DCGH.
+Keenam sisi balok ini
+berbentuk persegi panjang.
+
+2. Balok punya 12 rusuk
+yang sejajar dan ukuran
+sama panjang
+
+Balok memiliki 12 rusuk
+yaitu AB, BC, CD, EF, FG,
+GH, HE, AE, DH, FB, CG.
+Berikut penjelasan tentang
+4 rusuk di setiap balok:
+
+4 rusuk yang sama panjang
+dan sejajar disebut panjang
+balok (p) yaitu AB, CD, EF,
+dan GH
+
+4 rusuk yang sama panjang
+dan sejajar disebut lebar
+balok (l) yaitu BC, AD, FG,
+dan EH
+
+4 rusuk panjang dan sejajar
+dinamakan tinggi balok (t)
+yaitu AE, BF, CG, dan DH.
+
+3. Setiap diagonal bidang
+pada sisi yang berhadapan
+punya ukuran yang sama
+panjang
+
+Setiap bidang sisi balok
+punya 2 diagonal sisi. Ada
+12 diagonal sisi yaitu BE,
+AF, CH, DG, CF, BG, AH,
+DE, AC, BD, EG, FH.
+
+4. Punya 8 titik sudut
+
+5. Seluruh sudut pada
+balok adalah siku-siku
+
+6. Punya 4 diagonal ruang
+dan 12 diagonal bidang
+
+Setiap balok memiliki 4
+diagonal ruang yaitu BH,
+AG, CE, dan DF. Panjang
+diagonal ruang
+ABCD.EFGH jika bidang
+segitiga BDH dilepas maka
+gambarnya akan
+membentuk segitiga.Setiap
+segitiga BDH adalah
+segitiga siku-siku.
+
+7. Tiap diagonal ruang pada
+balok punya ukuran ruang
+yang sama panjang
+
+8. Setiap bidang diagonal
+pada balok memiliki bentuk
+persegi panjang
+Rumus Volume Balok dan
+Contoh Soalnya – Halo
+sobat Grameds, Tahukah
+Anda? bangun ruang
+adalah bangunan tiga
+dimensi dengan volume
+atau isi. Contoh bangun
+ruang adalah kubus, balok,
+silinder, prisma, limas,
+kerucut, dan bola. Bangun
+datar adalah bangun yang
+memiliki satu bidang.
+Contoh bentuk tersebut
+adalah kubus, balok,
+prisma, dan limas. Suatu
+bentuk memiliki bidang
+lateral, sisi, titik sudut,
+diagonal lateral, bidang
+diagonal, dan diagonal
+spasial.
+Artikel kali ini akan
+membahas rumus volume
+balok dan luas permukaan
+balok dan juga
+memaparkan contoh-
+contoh soalnya. namun
+sebelum itu kita mengenal
+balok secara jelas.
+Balok adalah bangun ruang
+yang dibatasi oleh tiga
+pasang sisi sejajar yang
+berbentuk persegi atau
+persegi panjang dengan
+setidaknya terdapat satu
+pasang sisi sejajar yang
+memiliki ukuran yang
+berbeda.
+Pengertian Balok
+Balok adalah bangun datar
+yang sisi-sisinya
+berhadapan. Serta
+berbentuk persegi panjang
+yang kongruen. Setiap sisi
+persegi panjang pada balok
+sama persis dengan satu
+sisi yang lain, dan persegi
+panjang yang berdekatan
+kongruen.
+Sebuah balok memiliki 6
+sisi, 12 rusuk, dan 8 sudut.
+balok yang dibentuk oleh
+enam persegi yang
+kongruen disebut balok.
+Karakteristik balok dapat
+dilihat dari karakteristiknya.
+Sifat-sifat balok hampir
+sama dengan sifat-sifat
+kubus.
+Balok merupakan bangun
+ruang yang memiliki titik
+sudut, rusuk, dan sisi.
+Contoh benda berbentuk
+balok adalah kotak
+makanan, kotak korek api,
+dan lemari. Setiap bidang
+sisi benda tersebut memiliki
+sisi yang berhadapan dan
+ukuran yang sama.
+Balok adalah bangun ruang
+yang memiliki tiga pasang
+sisi berhadapan yang
+sama. Bentuk dan ukuran
+setiap sisi persegi panjang.
+Pada balok ada 3 pasang
+sisi-sisi yang sama
+panjang. Bangun tersebut
+dinamakan balok
+ABCD.EFGH.
+Ciri-Ciri Balok
+1. Rusuk
+Rusuk balok merupakan
+garis potong antara sisi-sisi
+balok. Ciri-ciri balok
+memiliki total 12 rusuk
+sama panjang. Rusuk ini
+terbagi menjadi 4 rusuk
+alas, 4 rusuk tegak, dan 4
+rusuk atas. Rusuk- rusuk
+yang sejajar memiliki
+ukuran yang sama
+panjang.
+4 rusuk panjang = AB = DC
+= EF = HG.
+4 rusuk lebar = AD = BC =
+EH = FG.
+4 rusuk tinggi = AE = BF =
+CG = DH.
+2. Diagonal Ruang
+Ciri-ciri balok adalah
+diagonal ruangnya. Setiap
+diagonal ruang pada balok
+memiliki ukuran sama
+panjang. Diagonal ruang
+sebuah balok adalah ruas
+garis yang menghubungkan
+dua titik sudut berhadapan
+dalam balok. Diagonal
+ruang balok saling
+berpotongan di tengah-
+tengah dan membagi dua
+diagonal ruang sama
+panjang. Terdapat 4 buah
+diagonal ruang pada
+sebuah balok dengan
+panjang sama.
+3. Memiliki 6 Sisi
+Sisi pada sebuah balok
+menjadi bidang yang
+membatasi antara balok
+dengan tiga pasang sisi
+yang memiliki bentuk dan
+ukuran yang sama, jika
+saling berhadapan. Sebuah
+balok pasti memiliki 6 buah
+sisi yang berbentuk persegi
+atau persegi panjang. Sisi
+tersebut berada di samping
+kiri dan kanan, atas dan
+bawah, serta depan dan
+belakang.
+Berdasarkan contoh
+gambar balok di atas, 6 sisi
+tersebut adalah:
+Sisi samping kiri dan sisi
+samping kanan = ADHE =
+BCGF.
+Sisi alas (bawah) dan sisi
+atas = ABCD = EFGH.
+Sisi depan dan sisi
+belakang = ABFE = DCGH.
+4. Diagonal Sisi
+Diagonal sisi / bidang suatu
+balok adalah ruas garis
+yang menghubungkan dua
+titik sudut berhadapan pada
+sebuah sisi. Terdapat 12
+buah diagonal sisi pada
+balok. Setiap diagonal
+bidang pada sisi yang
+berhadapan memiliki
+ukuran sama panjang.
+5. Bidang Diagonal
+Bidang diagonal balok
+adalah bidang yang melalui
+dua buah rusuk yang
+berhadapan. Bidang
+diagonal balok membagi
+balok menjadi dua bagian
+yang sama besar. Terdapat
+6 buah bidang diagonal.
+Setiap bidang diagonal
+pada balok memiliki bentuk
+persegi panjang
+Jika kamu memperhatikan
+contoh gambar balok, 6
+bidang diagonal tersebut
+adalah:
+Bidang diagonal ACGE =
+BDHF.
+Bidang diagonal ABGH =
+DCFE
+Bidang diagonal BCHE =
+ADGF.
+6. Jaring-Jaring Balok
+Jaring-jaring balok adalah
+bangun datar yang
+merupakan rangkaian
+tertentu dari dua persegi
+dan enem persegi panjang
+yang kongruen sedemikian
+sehingga bila di lipat pada
+rusuk-rusuk sekutu dapat
+membentuk balok.
+7. Memiliki Luas
+Permukaan dan Volume
+Balok
+Balok memiliki luas
+permukaan dan volume
+balok. Volume mengacu
+pada lebar ruangan di
+sebuah bangunan. Untuk
+menentukan luas dan
+volume balok dapat dicari
+dengan menggunakan
+rumus-rumus tertentu.
+Rumus untuk menghitung
+luas balok adalah sebagai
+berikut:
+L= 2 x (pxl+pxt+lxt)
+Keterangan:
+p = panjang balok
+l = lebar balok
+t = tinggi balok
+Selain itu, untuk
+menentukan sebuah
+volume yang terdapat pada
+sebuah balok, juga memiliki
+rumus tertentu, yakni:
+V= p x l x t
+Keterangan:
+p = panjang balok
+l = lebar balok
+t = tinggi balok
+Rumus Volume Balok
+Volume balok adalah
+ukuran ruang balok yang
+dibatasi oleh sisi-sisi balok.
+Untuk menghitung volume
+balok (V), perlu diketahui
+panjang, tinggi, dan lebar
+balok. Rumus volume balok
+adalah V = p × l × t. Satuan
+volume balok adalah kubik
+yang ditulis dengan tanda
+pangkat tiga, misalnya
+sentimeter kubik (cm3) dan
+meter kubik (m3).
+Contoh Soal Volume Balok
+Contoh 1
+Sebuah balok yang
+mempunyai panjang 10 cm,
+lebar 8 cm dan tinggi 5 cm.
+Hitunglah volume balok
+tersebut!
+Jawaban:
+V=pxlxt
+V = 10 x 8 x 5
+V = 400 cm³
+Jadi, volume balok tersebut
+adalah 400 cm³
+Contoh 2
+Sebuah bak mandi
+berbentuk balok dengan
+panjang 100 cm, lebar 60
+cm dan tinggi 80 cm.
+Berapa liter volume air
+yang dibutuhkan untuk
+mengisi 2/3 bak mandi
+tersebut?
+Jawaban:
+Volume bak mandi = p x l x
+t
+Volume bak mandi = 100 x
+60 x 80
+Volume bak mandi =
+480.000 cm³ = 480 dm³ =
+480 liter
+Volume 2/3 bak mandi =
+2/3 x 480
+Volume 2/3 bak mandi =
+320 liter
+Jadi, air yang dibutuhkan
+untuk mengisi 2/3 bak
+mandi adalah 320 liter.
+Contoh 3
+Bibi akan membuat kotak
+peralatan berbentuk balok.
+Lebar kotak tersebut 30 cm,
+dengan panjang 3/2 kali
+lebarnya dan tinggi kotak
+1/3 dari ukuran panjang.
+Berapakah volume kotak
+yang akan dibuat Bibi?
+Jawaban:
+Lebar kotak = 30 cm
+Panjang kotak = 3/2 x 30 =
+45 cm
+Tinggi kotak = 1/3 x 45 =
+15 cm
+V=pxlxt
+V = 30 x 45 x 15
+V = 20.250 cm³
+Jadi, volume kotak
+peralatan paman adalah
+20.250 cm³
+Contoh 4
+Sebuah balok mempunyai
+panjang 15 cm, dan
+lebarnya 10 cm. Jika
+volume balok adalah 6.000
+cm³, berapa tinggi balok
+tersebut?
+Jawaban:
+V=pxlxt
+t = V : (p x l)
+t = 6000 : (10 x 15)
+t = 6000 : 150
+t = 40 cm
+Jadi, tinggi balok adalah 40
+cm
+Contoh 5
+Suatu kotak beras
+berbentuk balok dengan
+ukuran panjang 30 cm,
+lebar 25 cm dan tinggi 0,5
+m. Kotak beras tersebut
+rencana akan diisi penuh
+dengan beras seharga Rp.
+10.000/liter. Berapa jumlah
+uang yang digunakan untuk
+membeli beras hingga
+kotak beras terisi penuh?
+Jawaban:
+panjang balok = 30 cm
+lebar balok = 25 cm
+tinggi balok = 0,5 m = 50
+cm
+Volume kotak beras = p x l
+xt
+Volume kotak beras = 30 x
+25 x 50
+Volume kotak beras =
+37.500 cm³ = 37,5 liter
+Harga beras = 37,5 x
+Rp.10.000
+Harga beras = Rp.375.000
+Jadi, jumlah uang yang
+digunakan untuk membeli
+beras adalah Rp.375.000
+Contoh 6
+Diketahui luas permukaan
+balok yaitu:
+p = 28 cm
+l = 24 cm
+t = 10 cm
+Rumus volume balok = p x l
+x t = 8 x 24 x 10 = 6720
+cm³
+Contoh 7
+Diketahui volume suatu
+balok adalah 105 cm³,
+tinggi balok 5 cm dan
+panjangnya 7 cm.
+Tentukan lebar balok
+tersebut.
+Diketahui:
+V = 105 cm³
+t = 5 cm
+p = 7 cm
+Jawab: Volume balok = p x
+lxt
+105 = 7 x l x 5
+105 = 35 x l
+l = 105 : 35
+l = 3 cm
+Contoh 8
+Hitunglah tinggi balok jika
+diketahui:
+V = 24 cm³
+p = 4 cm
+l = 3 cm
+Jawab: V = p x l x t
+24 = 4 x 3 x t
+24 = 12 x t
+t = 24 : 12
+t = 2 cm
+Contoh 9
+Volume balok kayu yang
+dibeli Pak Kasno adalah
+V=pxlxt
+V = (8) x (1) x (1)
+V = 8 m3
+Karena setiap 1 m3 harga
+kayu tersebut adalah Rp
+10.000, maka harga balok
+kayu yang dibeli Pak Budi
+adalah
+Harga = 8 x 10.000 = Rp
+80.000,-
+Contoh 10
+Volume awal air kolam =
+600 L.
+Sisa volume air akhir = 1/3
+x 600 = 200 L. Nilai ini
+dikonversi dalam m3
+menjadi 0,2 m3
+Diketahui luas alas kolam =
+2 m2
+Ketinggian air sisa kolam
+dapat dihitung dengan
+menggunakan rumus dasar
+volume balok.
+V=pxlxt
+V = (p x l) x t
+V = (Luas alas) x t
+0,2 = 2 x t
+t = 0,1 m
+t = 10 cm
+Dengan dari itu, ketinggian
+air kolam tersebut setelah
+dikuras adalah 10 cm.
+Contoh 11
+Sebuah kayu berbentuk
+balok memiliki ukurang
+panjang : 200 cm, lebar 15
+cm dan tinggi 12 cm.
+Hitunglah volume kayu
+tersebut ?
+Pembahasan
+Volume kayu = panjang x
+lebar x tinggi
+Volume kayu = 200 x 15 x
+12
+Volume kayu = 36.000 cm3
+Contoh 12
+Jika luas alas balok adalah
+128 cm². Berapakah
+volume balok tersebut jika
+tingginya 4 cm ?
+Pembahasan
+Volume Balok = Luas alas
+x tinggi
+Volume Balok = 128 x 4
+Volume Balok = 512 cm3
+Contoh 13
+Jika diketahui Balok
+dengan volume 189 cm3
+dan memiliki panjang 9 cm
+serta lebar 7 cm.
+Berapakah tinggi Balok
+tersebut ?
+Pembahasan
+Volume = p x l x t
+189 = 9 x 7 x t
+189 = 63t
+t = 189/63
+= 3 cm
+Jadi tingginya adalah 3 cm
+Contoh 14
+Jika sebuah es batu
+berbentuk balok memiliki
+ukuran bagian dalam
+seperti berikut : panjang 50
+cm, lebar 40 cm, dan tinggi
+40 cm. Kemudian es batu
+berbentuk balok tersebut
+diisi dengan air sampai
+ketinggian 30 cm. Hitunglah
+volume air dalam es
+berbentuk balok tersebut ?
+Pembahasan
+Perhatikan soal cerita
+tersebut dengan seksama.
+Disini yang disuruh cari
+adalah volume air yang diisi
+dalam es berbentuk balok
+tersebut, bukanlah volume
+dari berbentuk balok itu
+sendiri.
+Volume Air = panjang x
+lebar x tinggi air
+Volume Air = 50 x 40 x 30
+Volume Air = 60.000 cm3
+Contoh 15
+Jika sebuah akuarium
+memiliki ukuran bagian
+dalam seperti berikut :
+panjang 50 cm, lebar 40
+cm, dan tinggi 40 cm.
+Kemudian akuarium
+tersebut diisi dengan air
+sampai ketinggian 30 cm.
+Hitunglah volume air dalam
+akuarium tersebut ?
+Pembahasan
+Perhatikan soal cerita
+tersebut dengan seksama.
+Disini yang disuruh cari
+adalah volume air yang diisi
+dalam Akuarium tersebut,
+bukanlah volume dari
+Akuarium itu sendiri.
+Volume Air = panjang x
+lebar x tinggi air
+Volume Air = 50 x 40 x 30
+Volume Air = 60.000 cm3
+Contoh 16
+Berdasarkan soal No.16,
+berapakah volume
+Akuarium yang tidak terisi
+air ?
+Pembahasan
+Pada soal no.5, kita sudah
+mendapatkan Volume Air
+yang mengisi Akuarium.
+Sekarang kita akan mencari
+Volume Akuarium terlebih
+dahulu sebelum
+menghitung sisa Volume
+Akuarium yang tidak
+berisikan Air.
+Volume Akuarium =
+panjang x lebar x tinggi
+akuarium
+Volume Aquarium = 50 x
+40 x 40
+Volume Akuarium = 80.000
+cm3
+
+Kemudian baru kita hitung
+sisa Volume Akuarium
+Yang Tidak Berisi Air :
+
+Volume Akuarium Yang
+Tidak Berisi Air = Volume
+Akuarium – Volume Air
+
+Volume Akuarium Yang
+Tidak Berisi Air = 80.000
+cm3 – 60.000 cm3
+
+Volume Akuarium Yang
+Tidak Berisi Air = 20.000
+cm3
+
+Contoh 17
+
+Suatu tempat kotak
+berbentuk balok dengan
+ukuran panjang, lebar dan
+tinggi berturut-turut adalah
+10 cm, 15 cm, dan 1m.
+tempat kotak tersebut akan
+diisi penuh dengan beras
+seharga Rp. 8.000,00 per
+liter. Berapa uang yang
+harus dikeluarkan untuk
+membeli beras tersebut ?
+
+Pembahasan
+
+p = 10 cm
+
+l = 15 cm
+
+t = 1 m = 100 cm
+
+V=pxlxt
+V = 10 x 15 x 100
+
+V = 15.000 cm3
+
+V = 15 liter
+
+Harga 1 liter beras =
+Rp.8000,00
+
+Harga 15 liter beras = 15 x
+Rp. 8.000,00=
+Rp.120.000,00
+
+Dengan demikian, uang
+yang dikeluarkan untuk
+membeli beras adalah
+Rp.120.000,00
+
+Contoh Soal 18
+
+Berapa volume balok jika
+panjang 2 cm lebar 5 mm
+dan tingginya 6 mm ?
+
+Pembahasan
+
+p = 2 cm
+
+l = 5 mm
+
+t = 6 mm
+
+Jika kita perhatikan
+satuannya tidak seragam,
+panjang menggunakan
+satuan “cm” sedangkan
+lebar dan tinggi
+menggunakan satuan
+“mm”. Dalam hal ini kita
+akan menjawab dalam dua
+model :
+
+Model Pertama,
+menggunakan satuan “mm”
+
+Model Kedua,
+menggunakan satuan “cm”
+
+Model Pertama
+
+Disini kita akan
+mengkonversi satuan “cm”
+ke “mm”.
+
+Ingat, 1 cm = 10 mm
+
+p = 2 cm
+
+p = 2 x 10 mm = 20 mm
+
+l = 5 mm
+
+t = 6 mm
+
+Volume Balok = p x l x t
+
+Volume Balok = 20 x 5 x 6
+
+Volume Balok = 600 mm3
+
+Model Kedua
+
+Modek kedua ini, kita
+konversi satuan “mm” ke
+“cm”.
+
+Ingat, 1 mm = 0,1 cm
+l = 5 mm
+
+l = 5 x 0,1 cm = 0,5 cm
+
+t = 6 mm
+
+t = 6 x 0,1 cm = 0,6 cm
+
+p = 2 cm
+
+Volume Balok = p x l x t
+
+Volume Balok = 2 x 0,5 x
+0,6
+
+Volume Balok = 0,5 cm3
+
+Contoh 19
+
+Luas alas sebuah balok
+adalah 144 cm2. Jika tinggi
+balok 15 cm maka volume
+balok adalah…?
+
+Pembahasan
+
+luas alas = 144 cm2
+
+t = 15 cm
+
+Volume Balok = luas alas x
+t
+
+Volume Balok = 144 x 15
+
+Volume Balok = 2160 cm3
+
+Contoh 20
+
+Diketahui ukuran bagian
+pada akuarium ialah tinggi
+30 cm, lebar 30 cm dan
+panjang 40 cm. Lalu
+akuarium itu diisi dengan
+air hingga tingginya
+mencapai 20 cm. Tentukan
+volume air yang terdapat di
+akuarium tersebut?
+
+Pembahasan.
+
+Volume air = panjang x
+lebar x tinggi air
+
+= 40 x 30 x 20
+
+= 24000 cm³
+
+Jadi volume air yang
+terdapat di akuarium
+tersebut ialah 24000 cm³.
+
+Contoh 21
+
+3. Febryan memiliki sebuah
+kolam renang yang pada
+awalnya berisi air sebanyak
+400 liter. Kemudian
+Febryan menguras air pada
+kolam renang tersebut
+hingga volume air pada
+kolam renang tersebut
+hanya tersisa ½ saja dari
+volume air sebelumnya.
+Carilah berapa kedalaman
+air yang tersisa pada kolam
+tersebut jika kolam tersebut
+memiliki luas alas sebesar
+2 m2 !
+
+Diketahui :
+
+Volume awal kolam = 300
+liter
+
+Sisa air setelah dikuras = ½
+x 400 = 200 liter kemudian
+dikonversi menjadi meter =
+0,2 m3
+
+Luas kolam renang = 2 m2
+
+Ditanya :
+
+Kedalaman air yang tersisa
+setelah kolam dikuras?
+
+Jawab :
+
+V = luas alas x tinggi
+
+0,2 m3 = 2 m2 x tinggi
+
+tinggi = 0,2 : 2
+
+tinggi = 0,1 m atau 10 cm
+
+Jadi, kedalaman air yang
+tersisa setelah dikuras
+adalah 0,1 m atau 10 cm.
+
+Contoh 22
+
+Satu buah kotak beras
+berbentuk balok dengan
+ukuran panjang 30 cm,
+lebar 25 cm dan tinggi 0,5
+m. Kotak beras tersebut
+rencananya akan diisi
+penuh dengan beras
+seharga Rp. 10.000/liter.
+Berapakah jumlah uang
+yang diperlukan untuk
+membeli beras sampai
+kotak beras terisi penuh?
+
+Jawaban:
+
+panjang kotak = 30 cm
+
+lebar kotak = 25 cm
+
+tinggi kotak = 0,5 m = 50
+cm
+
+Volume kotak = p x l x t
+
+Volume kotak = 30 x 25 x
+50
+
+Volume kotak = 37.500 cm³
+= 37,5 liter
+
+Harga beras = 37,5 x
+Rp.10.000
+
+Harga beras = Rp.375.000
+
+Jadi, jumlah uang yang
+diperlukan untuk membeli
+beras adalah Rp.375.000.
+
+Jika ingin mengetahui lebih
+banyak tentang rumus
+volume balok dan contoh
+soalnya, maka bisa dengan
+membaca buku yang bisa
+diperoleh di Gramedia.com.
+Untuk mendukung
+Grameds dalam
+menambah wawasan,
+Gramedia selalu
+menyediakan buku-buku
+berkualitas dan original
+agar Grameds memiliki
+informasi
+#LebihDenganMembaca.
+
+Penulis: Ziaggi Fadhil
+Zahran
+
+Baca juga artikel dibawah
+ini!
+Rumus volume kubus dapat
+dihitung dengan
+menggunakan rumus
+volume prisma, yaitu
+dengan luas alas x tinggi.
+Sebelum mengetahui
+tentang rumus volume
+kubus ada beberapa hal
+yang harus diketahui
+tentang kubus, berikut
+penjelasannya yang dikutip
+dari buku Saya Ingin Pintar
+Matematika karya Nanang
+Priatna:
+Sebuah kubus memiliki:
+- 12 rusuk yang sama
+panjang
+- 6 bidang sisi berbentuk
+persegi
+- 8 titik sudut
+Kubus sendiri adalah balok
+khusus yang semua
+rusuknya sama panjang.
+Oleh karena itu, rumus
+volume kubus dapat
+ditentukan dari rumus
+volume balok, yaitu sebagai
+berikut:
+V=p x l x t
+=pxpxp
+= p3
+Volume kubus (V) dengan
+panjang rusuknya p adalah
+sebagai berikut:
+V= p3 atau V= L x t
+Dengan V = volume kubus,
+L = luas alas kubus, dan t =
+tinggi kubus.
+Contoh:
+Sebuah kubus memiliki
+rusuk berukuran 4 cm.
+berapa volumenya:
+Volume kubus = r x r x r
+V= 4 cm x 4 cm x 4 cm
+V= 64 cm3
+Jadi, volume kubus
+tersebut adalah 64 cm3.
+Luas Permukaan Kubus
+Menghitung luas
+permukaan kubus dapat
+menggunakan luas
+permukaan prisma. Luas
+permukaan prisma dapat
+diketahui dengan
+menggunakan rumus L= (2
+x luas alas) + (keliling
+bidang alas x tinggi).
+Dengan L adalah luas
+permukaan prisma.
+Oleh karena itu, kubus
+merupakan prisma maka
+luas permukaan kubus
+dapat dicari dengan
+menggunakan rumus:
+L = (2 x luas alas) +
+(keliling bidang alas x
+tinggi)
+= (2 x s x s) + (4 s x s)
+
+= 2s2 + 4s2
+
+= 6 s2
+
+Jadi, luas permukaan
+kubus dengan panjang
+rusuk s adalah 6s2.
+
+Contoh Soal Luas
+Permukaan Kubus
+
+Diketahui panjang rusuk
+sebuah kubus yaitu 6 cm.
+Berapakah luas
+permukaannya?
+
+Penyelesaiannya:
+
+P = 6 cm
+
+L = 6p2= 6 x 62= 6 x 36 =
+216
+
+Jadi, luas permukaan
+kubus adalah 216 cm2.
+
+Demikianlah penjelasan
+mengenai rumus volume
+kubus dan luas
+permukaannya. Semoga
+dapat dipahami detikers ya!
+
+Arus Balik Natal, Tol
+Cikampek Padat Merayap
+Ciri-ciri dan Sifat Bangun
+Datar – Grameds apa yang
+akan terlintas dipikiran
+kamu jika mendengar
+tentang bangun datar? Ya,
+tentu saja akan
+berhubungan dengan salah
+satu mata pelajaran di
+sekolah yaitu matematika.
+Bangun datar adalah suatu
+bentuk dua dimensi dari
+bangun-bangun yang
+mempunyai permukaan
+datar pada luas, panjang,
+lebar, dan kelilingnya.
+Lalu, apa saja bangun-
+bangun yang termasuk ke
+dalam bangun datar ya
+grameds? Bermacam-
+macam bangun datar,
+antara lain persegi, persegi
+panjang, lingkaran,
+segitiga, jajar genjang,
+belah ketupat, layang-
+layang, trapesium, segi
+lima atau pentagon, dan
+segi enam atau hexagon.
+Kamu juga bisa membaca
+salah satu rekomendasi
+buku berikut ini jika ingin
+mengetahui lebih luas lagi
+tentang bangun datar yang
+belum kamu ketahui.
+Pada satu artikel ini akan
+membahas tentang
+beberapa ciri-ciri dan sifat
+bangun datar yang telah
+disebutkan sebelumnya.
+Maka dari itu, yuk simak
+hingga artikel di bawah ini.
+Berikut ini adalah beberapa
+ciri-ciri dan sifat bangun
+datar, antara lain sebagai
+berikut.
+1. Persegi
+Persegi adalah bangun
+datar dua dimensi yang
+memiliki bentuk pada
+keempat rusuk yang sisinya
+sama panjang dan memiliki
+empat sudut siku-siku
+sebesar 90 derajat.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Detik.com
+(Google)
+Ciri-ciri dan sifat bangun
+datar persegi, antara lain:
+Memiliki sisi-sisi yang sama
+panjang.
+Memiliki dua diagonal yang
+sama panjang (keduanya
+saling berpotongan dan
+membentuk tegak lurus
+serta membaginya menjadi
+dua bagian sama panjang).
+Memiliki empat sudut siku-
+siku yang sama besar,
+yakni 90 derajat.
+Memiliki empat sumbu
+simetri lipat.
+Memiliki empat titik sudut.
+Memiliki empat sumbu
+simetri putar.
+2. Persegi Panjang
+Persegi panjang adalah
+suatu bangun datar dua
+dimensi yang memiliki dua
+bentuk pasang rusuk yang
+sama panjang dan sejajar,
+memiliki empat sudut siku-
+siku dengan panjang
+sisinya yang berhadapan
+sama panjang.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Detik.com
+(Google).
+Ciri-ciri dan sifat bangun
+datar persegi panjang,
+antara lain sebagai berikut.
+Memiliki empat sisi (dimana
+kedua sisi tersebut saling
+berhadapan sama panjang
+dan sejajar).
+Memiliki empat sudut siku-
+siku yang sama besar,
+yaitu 90 derajat.
+Memiliki dua diagonal
+(garis melintang) yang
+berpotongan menjadi dua
+bagian yang sama panjang.
+Memiliki dua sumbu simetri
+lipat.
+Memiliki dua sumbu simetri
+putar.
+Memiliki sisi-sisi persegi
+panjang yang saling tegak
+lurus.
+3. Lingkaran
+Lingkaran adalah bangun
+datar yang tersusun dari
+kurva dengan jarak yang
+sama atau dapat dikatakan
+sebagai garis melengkung
+sempurna yang memiliki
+titik pusat.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Cilacapklik.com
+(Google)
+Ciri-ciri dan sifat bangun
+datar lingkaran, antara lain:
+Memiliki jarak pada tepi
+garis ke titik pusat yang
+biasa disebut dengan jari-
+jari atau dilambangkan r
+Memiliki simetri lipat dan
+putar yang jumlahnya tidak
+terhingga.
+Memiliki jumlah derajat
+lingkaran sebesar 360
+derajat.
+Memiliki satu titik pusat.
+Memiliki diameter yang
+membagi lingkaran menjadi
+dua sisi yang seimbang.
+Memiliki jari-jari yang
+menghubungkan ke titik
+pusat dengan titik busur
+lingkaran.
+Memiliki diameter yang
+konstan.
+Grameds juga bisa
+membaca salah satu
+rekomendasi buku berikut
+ini untuk mengenal
+bagaimana bentuk-bentuk
+lingkaran yang lainnya agar
+dapat memahami bangun
+datar pada mata pelajaran
+di sekolah. Langsung saja
+klik di bawah ini ya!
+4. Segitiga
+Segitiga adalah bangun
+datar geometri yang
+mempunyai tiga sisi berupa
+garis lurus dengan tiga
+sudut. Segitiga memiliki
+beberapa macam bentuk,
+yaitu segitiga sama kaki,
+segitiga sama sisi, segitiga
+siku-siku, segitiga
+sembarang, segitiga
+tumpul, dan segitiga lancip.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Rumushitung.com
+(Google)
+Ciri-ciri dan sifat bangun
+datar segitiga, antara lain
+sebagai berikut.
+Segitiga Sama Sisi
+Memiliki tiga sudut yang
+sama besarnya, yakni 60
+derajat.
+Memiliki tiga sisi yang
+sama panjang
+Memiliki tiga sumbu simetri
+lipat.
+Memiliki tiga sumbu simetri
+putar.
+Segitiga Sama Kaki
+Memiliki satu sumbu simetri
+lipat.
+Memiliki dua sisi yang
+berhadapan sama panjang.
+Memiliki satu sumbu simetri
+putar.
+Segitiga Siku-siku
+Memiliki satu sisi miring.
+Tidak memiliki sumbu
+simetri lipat.
+Memiliki dua sisi yang
+saling tegak lurus.
+Tidak memiliki sumbu
+simetri putar.
+Salah satu sudutnya, yaitu
+sudut siku-siku sebesar 90
+derajat.
+Menggunakan rumus
+phytagoras dalam mencari
+panjang sisi miringnya.
+Segitiga Sembarang
+Memiliki tiga sisi tidak sama
+panjang.
+Memiliki tiga sudut yang
+besarannya berbeda.
+Tidak memiliki sumbu
+simetri lipat.
+Memiliki satu sumbu simetri
+putar.
+5. Jajar Genjang
+Jajar genjang adalah
+bangun datar segi empat
+atau dua dimensi yang
+memiliki bentuk dua pasang
+rusuk yang sama panjang
+dan sejajar dengan
+pasangannya serta memiliki
+dua pasang sudut (bukan
+siku-siku) yang sama besar
+dengan sudut di
+hadapannya.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Rumuspintar.com
+(Google)
+Ciri-ciri dan sifat bangun
+datar jajar genjang, antara
+lain:
+Memiliki dua diagonal yang
+tidak sama panjang.
+Tidak memiliki sumbu
+simetri lipat dan sumbu
+simetri putar.
+Memiliki dua pasang sisi
+yang saling berhadapan
+sama panjang dan saling
+sejajar.
+Memiliki empat titik sudut
+saling berhadapan sama
+besar dan berpasangan
+(dua sudut tumpul dan dua
+sudut lancip).
+Memiliki sudut yang saling
+berdekatan sebesar 180
+derajat.
+Kamu juga membaca salah
+satu rekomendasi buku
+yang satu ini untuk
+mengetahui lebih dalam
+lagi tentang bangun datar
+atau matematika dasar
+yang belum kamu kuasai
+atau diketahui. Langsung
+saja klik di bawah ini
+grameds!
+6. Belah Ketupat
+Belah ketupat adalah jenis
+bangun datar dua dimensi
+yang memiliki bentuk sama
+panjang pada empat rusuk
+dan sisinya serta memiliki
+dua pasang sudut yang
+bukan sudut siku-siku
+sama besar dengan sudut
+di hadapannya.
+Perhatikan contoh gambar
+di bawah ini.
+Sumber: Cilacapklik.com
+(Google)
+Ciri-ciri dan sifat bangun
+datar belah ketupat, antara
+lain sebagai berikut.
+Memiliki empat titik sudut
+yang saling berhadapan
+dan sama besarnya.
+Memiliki dua diagonal yang
+panjangnya berbeda.
+
+Memiliki dua sumbu simetri
+lipat.
+
+Memiliki dua sumbu simetri
+putar.
+
+Memiliki sisi yang tidak
+tegak lurus.
+
+Memiliki dua jumlah sudut
+yang berdekatan sebesar
+180 derajat.
+
+7. Layang-layang
+
+Layang-layang adalah
+bangun geometri yang
+memiliki bentuk segiempat
+dari dua segitiga sama kaki
+yang alasnya saling
+berhimpitan serta memiliki
+diagonal yang saling tegak
+lurus.
+
+Perhatikan contoh gambar
+di bawah ini.
+
+Sumber: Advernesia.com
+(Google)
+
+Ciri-ciri dan sifat bangun
+datar layang-layang, antara
+lain:
+
+Memiliki satu sumbu simetri
+lipat.
+
+Tidak memiliki sumbu
+simetri putar.
+
+Memiliki empat sisi
+berpasangan yang sama
+panjang.
+
+Memiliki empat titik sudut
+(sepasang sudutnya saling
+berhadapan sama besar).
+
+Memiliki dua diagonal yang
+berbeda dan saling tegak
+lurus.
+
+8. Trapesium
+
+Trapesium adalah bangun
+datar yang memiliki bentuk
+berupa segiempat dengan
+sepasang sisinya saling
+berhadapan sejajar.
+
+Perhatikan contoh gambar
+di bawah ini.
+
+Sumber: Rumus
+matematika.blogspot
+(Google)
+
+Ciri-ciri dan sifat bangun
+datar trapesium, antara lain
+sebagai berikut.
+
+Trapesium memiliki
+berbagai macam bentuk,
+yaitu trapesium sembarang,
+siku-siku, dan sama kaki.
+
+Memiliki empat sisi (dua
+sisi yang saling sejajar).
+
+Memiliki empat sudut (dua
+jumlah sudut saling
+berdekatan dengan besar
+180 derajat).
+
+9. Segi Lima
+
+Segi lima atau pentagon
+adalah jenis bangun datar
+dua dimensi yang memiliki
+lima sisi bentuk lurus dan
+lima titik sudut dengan
+jumlah semua sudutnya
+yakni 540 derajat.
+
+Perhatikan contoh gambar
+di bawah ini.
+
+Sumber:
+Roboguru.ruangguru.com
+(Google)
+
+Ciri-ciri dan sifat bangun
+datar segi lima atau
+pentagon, antara lain:
+
+Memiliki lima sumbu
+simetri.
+
+Memiliki lima sudut yang
+sama besarnya.
+
+Memiliki lima sisi yang
+sama panjang.
+
+10. Segi Enam
+
+Segi enam atau hexagon
+adalah bangun datar yang
+memiliki enam sisi dengan
+bentuk garis lurus dan
+enam titik sudut.
+
+Perhatikan contoh gambar
+di bawah ini.
+
+Sumber: Broexcel.com
+(Google)
+
+Ciri-ciri dan sifat bangun
+datar segi enam atau
+hexagon, antara lain
+sebagai berikut.
+
+Memiliki enam sisi yang
+sama panjang.
+
+Memiliki enam sudut yang
+sama besar
+
+Memiliki enam sumbu
+simetri.
+Rekomendasi Buku &
+Artikel Terkait
+
+Nah, itulah pembahasan
+pada satu artikel ini tentang
+ciri-ciri dan sifat bangun
+datar. Semoga setelah
+membaca artikel ini dapat
+menambah wawasan dan
+pengetahuan kamu tentang
+bangun datar yang belum
+diketahui.
+
+Jika grameds memiliki
+ketertarikan untuk mencari
+beberapa informasi lainnya
+tentang bangun datar kamu
+bisa mencari referensi
+buku-buku terkait yang
+hanya tersedia di website
+Gramedia.com yang siap
+menjadi
+#SahabatTanpaBatas
+dalam menemani kamu
+dalam berkembang dan
+melangkah maju setiap
+harinya. Selamat belajar
+dan semoga bermanfaat
+ya!
+
+Penulis: Elsya Islamay
+Sifat-sifat bangun ruang
+tentu akan berbeda,
+mengingat secara kasat
+mata bahwa tiap bangun
+ruang memiliki bentuk yang
+beda antara satu sama lain.
+Kubus yang terlihat seperti
+kotak hingga kerucut yang
+bentuknya cukup unik.
+Sifat-sifat inilah yang akan
+menjadi pembeda paling
+jelas antar bangun ruang.
+Oleh karena itu, pada
+kesempatan kali ini, kita
+akan mempelajari berbagai
+sifat dari bangun ruang,
+sehingga kamu akan
+dengan mudah
+membedakan antara satu
+jenis bangun ruang dengan
+jenis lainnya. Pastikan
+kamu membaca hingga
+akhir ya.
+Inilah Sifat-Sifat Bangun
+Ruang
+Bangun ruang adalah suatu
+bangun yang berbentuk
+tiga dimensi dan memiliki
+volume atau isi. Secara
+umum, bangun ruang terdiri
+dari susunan panjang,
+lebar, dan tinggi. 3 elemen
+inilah yang akan bisa
+membentuk bangun ruang.
+Bangun ruang juga akan
+terbentuk dari berbagai
+bagian berikut ini:
+Terdiri dari bidang sisi yang
+membatasi wilayah antar
+ruang. Rusuk sebagai
+pertemuan antara dua sisi
+pada bangun datar. Titik
+sudut adalah hasil
+pertemuan antara dua
+rusuk atau lebih. Diagonal
+sisi merupakan sisi
+diagonal pada bangun
+ruang tersebut. Bidang
+diagonal yakni bidang datar
+yang terbentuk dari
+diagonal sisi dan rusuk.
+Diagonal ruang adalah
+garis yang merupakan
+diagonal dari sebuah
+bidang yang diagonal.
+Berikut ini adalah sifat-sifat
+bangun ruang dari berbagai
+macam jenis atau bentuk
+bangun ruang.
+1. Sifat-Sifat Bangun Ruang
+Kubus
+Kubus adalah sebuah
+bangun ruang yang dibatasi
+oleh 6 bidang sisi yang
+saling kongruen dan
+berbentuk bujur sangkar.
+Sifat-sifat dari kubus
+adalah:
+Mempunyai 4 buah
+diagonal ruang dan 12
+buah diagonal bidang
+Memiliki 6 bidang sisi yang
+berbentuk bujur sangkar
+(Persegi)
+Memiliki 8 titik sudut dan
+semua sudut tersebut siku
+– siku
+Memiliki 12 Buah Rusuk
+yang sama panjang
+Jaring – Jaring Bangun
+Ruang Kubus berupa 6
+Persegi yang saling
+Kongruen
+2. Sifat-Sifat Bangun Ruang
+Balok
+Balok akan terbentuk oleh 3
+pasang persegi panjang
+(Persegi) dan paling tidak
+satu pasang diantaranya
+tersebut mempunyai
+ukuran yang berbeda, serta
+terdiri juga dari 6 sisi. Untuk
+Sifat-sifat balok adalah
+seperti ini:
+Memiliki 4 buah diagonal
+ruang dan 12 buah
+diagonal bidang
+Memiliki 8 buah titik sudut
+dan seluruhnya siku – siku
+Memiliki 12 buah rusuk dan
+6 pasang rusuk tersebut
+berhadapan sama panjang
+Memiliki 6 Buah Bidang sisi
+yang berbentuk Persegi
+Panjang dan 3 pasang sisi
+yang saling Kongruen
+3. Sifat-Sifat Bangun Ruang
+Tabung
+Tabung terbentuk oleh 2
+buah lingkaran identik dan
+sejajar serta sebuah
+Bangun persegi panjang
+menyelimuti kedua
+lingkaran tersebut. Sifat –
+Sifat Bangun Ruang
+Tabung adalah:
+Memiliki Alas dan Tutup
+yang berbentuk Lingkaran
+Jarak antara lingkaran
+tutup dan lingkaran alas
+disebut dengan tinggi
+tabung
+Jaring Tabung berupa 1
+buah persegi panjang dan 2
+buah lingkaran
+Bidang Tegak Tabung itu
+berupa lengkungan yg
+disebut juga dengan
+selimut tabung
+4. Sifat-Sifat Bangun Ruang
+Kerucut
+Kerucut adalah sebuah
+bangun ruang yang beralas
+lingkaran dan mempunyai 1
+buah rusuk serta
+mempunyai 2 buah sisi. Sisi
+tegak berupa bidang miring
+yg disebut juga dengan
+selimut kerucut. Sifat-sifat
+kerucut antara lain :
+Mempunyai 1 Buah Titik
+Sudut
+Mempunyai 1 Buah Rusuk
+Sudut
+Mempunyai 2 Buah Sisi
+yang terbagi antara 1 sisi
+merupakan alas yg
+dibentuk oleh lingkaran dan
+1 buah sisinya lagi
+merupakan sisi kerucut
+(Sisi Lengkung)
+5. Sifat-Sifat Bangun Ruang
+Bola
+Bola merupakan bangun
+ruang yang dibentuk oleh
+suatu lingkaran tak hingga
+dengan jari-jari yang sama
+panjang serta berpusat
+pada satu titik dengan
+ukuran yang sama. Sifat-
+sifat bangun ruang bola ini
+adalah:
+Mempunyai 1 buah sisi
+
+Mempunyai 1 buah titik
+pusat
+
+Tidak mempunyai titik
+sudut
+
+Mempunyai jari jari yg tak
+terhingga dan semuanya itu
+sama panjang
+
+6. Sifat-Sifat Bangun Ruang
+Prisma
+
+Bangun ruang 3 dimensi
+yang telah dibatasi oleh
+alas dan tutup berbentuk
+segi-n dan sisi-sisi yang
+tegak berbentuk persegi
+panjang maupun persegi
+disebut sebagai prisma.
+Sifat-sifat Prisma antara
+lain :
+
+Memiliki 6 buah titik sudut
+
+Memiliki 9 buah rusuk
+
+Jaring – Jaring Bangun
+Ruang Prisma berupa 2
+segitiga dan 3 buah persegi
+panjang
+
+Mempunyai 5 buah bidang
+sisi yang terbagi menjadi 2
+buah sisi berbentuk
+segitiga serta 3 sisi yg
+berbentuk segi empat
+
+7. Sifat-Sifat Bangun Ruang
+Limas
+
+Limas adalah sebuah
+bangun ruang 3 dimensi
+yang dibatasi dengan alas
+berbentuk segi-n dan sisi-
+sisi tegak yang berbentuk
+segitiga. Limas juga
+memiliki beberapa jenis,
+seperti limas segiempat,
+limas segilima, limas
+segitiga dan limas
+segienam. Sifat- sifat limas
+adalah
+
+Memiliki titik sudut
+berjumlah n titik sudut alas
++ 1 titik sudut puncak
+
+Memiliki rusuk berjumlah n
+rusuk dikali 2
+
+Memiliki bidang sisi yang
+berbentuk segitiga dan alas
+berupa n-sisi.
+
+Itulah penjelasan mengenai
+sifat-sifat bangun ruang.
+Semoga informasi ini
+bermanfaat untuk kamu ya.
+Jika kamu ingin tahu lebih
+banyak mengenai materi
+yang satu ini, kamu bisa
+cobain platform bimbel
+online dari Kelas Pintar.
+Dapatkan berbagai macam
+keuntungan yang bisa
+membantu kamu untuk
+belajar berbagai macam
+materi. Tunggu apalagi!
+adjar.id - Pada buku
+Matematika SD kelas 4
+Kurikulum Merdeka,
+terdapat materi tentang
+pecahan.
+Bentuk pecahan dibedakan
+menjadi bermacam-macam.
+Setiap bentuk pecahan
+memiliki ciri-ciri yang
+berbeda.
+Nah, pada kesempatan kali
+ini kita akan membahas
+macam-macam bentuk
+pecahan.
+Tahukah Adjarian apa yang
+dimaksud dengan
+pecahan?
+Pecahan adalah bilangan
+yang dituliskan dalam
+bentuk a/b (a per b).
+Bagian a disebut dengan
+pembilang dan bagian b
+disebut dengan penyebut.
+Nilai a/b merupakan
+bilangan bulat dan tidak
+sama dengan nol untuk
+bagian b.
+Bilangan bulat adalah
+bilangan bilangan bulat
+positif, bilangan nol, dan
+bilangan bulat negatif.
+Lalu, apa saja macam-
+macam bentul pecahan?
+"Pecahan adalah bilangan
+dalam bentuk a/b di mana a
+adalah pembilah dan b
+adalah penyebut."
+Baca Juga: Cara Mudah
+untuk Menyederhanakan
+Bilangan Pecahan dan
+Contohnya
+Macam-Macam Bentuk
+Pecahan
+1. Pecahan dengan
+Pembilang Satu
+Pecahan dengan
+pembilang satu adalah
+pecahan dengan nilai a 1
+dan nilai b bilangan bulat
+selain bilangan nol.
+Misalnya terdapat 4 potong
+pizza. Ibu membagikan 4
+potong pizza kepada 4
+anaknya. Sehingga setiap
+anak mendapatkan 1 dari 4
+bagian pizza utuh.
+Cara menyatakan itu kita
+menggunakan bilangan
+pecahan.
+Pernyataan pecahan
+tersebut dituliskan menjadi
+1/4.
+Nilai angka 1 adalah
+pembilang dan nilai 4
+adalah penyebut.
+Sehingga 1/4 merupakan
+pecahan dengan pembilang
+satu.
+"1/4 contoh pecahan
+dengan pembilang satu."
+2. Pecahan dengan
+Penyebut yang Sama
+Pecahan dengan penyebut
+sama bisa dibandingan
+dengan cara
+membandingan nilai
+pembilang saja.
+Baca Juga: Cara
+Menghitung Perkalian dan
+Pembagian pada Bilangan
+Pecahan
+Contoh pecahan dengan
+penyebut sama adalah 1/3
+dan 2/3.
+Dua pecahan tersebut
+memiliki penyebut yang
+sama, yaitu 3.
+Dari pecahan 1/3 dan 2/3
+dapat dibandingakan
+dengan cara melihat nilai
+pembilangnya saja.
+Semakin besar nilai
+pembilang, maka semikin
+besar juga pecahannya.
+Sehingga 2/3 lebih besar
+dibandingakan 1/3.
+"Pecahan dengan penyebut
+sama bisa dibandingkan
+dengan melihat nilai
+pembilang saja."
+3. Pecahan Senilai
+Pecahan senilai adalah
+pecahan yang memiliki nilai
+yang sama namun
+dituliskan dalam bentuk
+yang berbeda.
+
+Pecahan senilai akan
+memiliki nilai yang sama
+ketika pembilang dan
+penyebut pecahan
+dikalikan atau dibagi
+dengan bilangan yang
+sama.
+Misalnya pecahan 3/5 dan
+9/15.
+
+Pecahan 3/5 jika pembilang
+dan penyebutnya dikalikan
+3 akan menghasilkan 9/15.
+
+Baca Juga: Cara
+Menghitung Perkalian dan
+Pembagian pada Bilangan
+Pecahan
+
+Sedangkan 9/15 jika
+pembilang dan
+penyebutnya dibagi 3 akan
+menghasilkan 3/5.
+
+Sehingga dua pecahan 3/5
+dan 9/15 adalah pecahan
+senilai.
+
+"Pecahan senilai adalah
+pecahan dengan nilai yang
+sama namun dituliskan
+dalam bentuk berbeda."
+
+4. Pecahan Desimal
+
+Pecahan desimal adalah
+pecahan dengan nilai
+penyebut 10, 100, 1.000,
+10.000 dan seterusnya.
+
+Pecahan desimal ditulis
+dengan tanda koma seperti
+0,1 untuk pecahan desimal
+dengan penyebut 10.
+
+0,01 adalah pecahan
+desimal dengan penyebut
+100.
+
+0,001 pecahan desimal
+dengan penyebut 1.000.
+
+Nah, itulah macam-macam
+bentuk pecahan dan
+contohnya, Adjarian.
+
+Coba Jawab! Apa yang
+dimaksud dengan bilangan
+pecahan dengan pembilang
+satu? Petunjuk: Cek
+halaman 2.
+
+Tonton video ini, yuk!
+
